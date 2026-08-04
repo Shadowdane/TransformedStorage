@@ -1,0 +1,392 @@
+[
+    {
+        "filename": "appleskin-fabric-mc26.2-3.0.10.jar",
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "3.0.10+mc26.2"
+    },
+    {
+        "filename": "architectury-fabric-21.0.7.jar",
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "21.0.7"
+    },
+    {
+        "filename": "balm-fabric-26.2-26.2.0.5.jar",
+        "name": "Balm",
+        "url": "https://modrinth.com/mod/MBAkmtvl",
+        "version": "26.2.0.5"
+    },
+    {
+        "filename": "BetterAdvancements-Fabric-26.2-0.6.0.72.jar",
+        "name": "Better Advancements",
+        "url": "https://modrinth.com/mod/Q2OqKxDG",
+        "version": "0.6.0.72"
+    },
+    {
+        "filename": "better-compatability-checker-fabric-26.2.0.1.jar",
+        "name": "Better Compatibility Checker",
+        "url": "https://modrinth.com/mod/KJhXPbHQ",
+        "version": "26.2.0.1"
+    },
+    {
+        "filename": "bettertab-2.2.1+26.2.jar",
+        "name": "Better Tab",
+        "url": "https://modrinth.com/mod/OSMu7zRz",
+        "version": "2.2.1+26.2"
+    },
+    {
+        "filename": "BridgingMod-2.7.0+26.2.fabric-release.jar",
+        "name": "Bridging Mod",
+        "url": "https://modrinth.com/mod/lO3s8hjs",
+        "version": "2.7.0+26.2"
+    },
+    {
+        "filename": "chunkloaders-1.2.9-fabric-mc26.2.jar",
+        "name": "Chunk Loaders",
+        "url": "https://modrinth.com/mod/t1VgucWo",
+        "version": "1.2.9"
+    },
+    {
+        "filename": "cloth-config-26.2.155.jar",
+        "name": "Cloth Config v26.2",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "26.2.155"
+    },
+    {
+        "filename": "Clumps-fabric-26.2-26.2.1.jar",
+        "name": "Clumps",
+        "url": "https://modrinth.com/mod/Wnxd13zP",
+        "version": "26.2.1"
+    },
+    {
+        "filename": "collective-26.2.0-8.39.jar",
+        "name": "Collective",
+        "url": "https://modrinth.com/mod/e0M1UDsY",
+        "version": "8.39"
+    },
+    {
+        "filename": "continuity-3.0.1+26.2.jar",
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/1IjD5062",
+        "version": "3.0.1+26.2"
+    },
+    {
+        "filename": "craftingtweaks-fabric-26.2-26.2.0.2.jar",
+        "name": "Crafting Tweaks",
+        "url": "https://modrinth.com/mod/DMu0oBKf",
+        "version": "26.2.0.2"
+    },
+    {
+        "filename": "defaultoptions-fabric-26.2-26.2.0.3.jar",
+        "name": "Default Options",
+        "url": "https://modrinth.com/mod/WEg59z5b",
+        "version": "26.2.0.3"
+    },
+    {
+        "filename": "energizedpower-3.0.0-rc.1+26.2.x-fabric.jar",
+        "name": "Energized Power",
+        "url": "https://modrinth.com/mod/6pku8gW1",
+        "version": "3.0.0-rc.1+26.2.x-fabric"
+    },
+    {
+        "filename": "entityculling-fabric-1.10.5-mc26.2.jar",
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "version": "1.10.5"
+    },
+    {
+        "filename": "ExtendedDrawers-5.1.0+mc.26.2.jar",
+        "name": "Extended Drawers",
+        "url": "https://modrinth.com/mod/AhtxbnpG",
+        "version": "5.1.0+mc.26.2"
+    },
+    {
+        "filename": "fabric-api-0.156.0+26.2.jar",
+        "name": "Fabric API",
+        "url": "https://modrinth.com/mod/P7dR8mSH",
+        "version": "0.156.0+26.2"
+    },
+    {
+        "filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+        "name": "Fabric Language Kotlin",
+        "url": "https://modrinth.com/mod/Ha28R6CL",
+        "version": "1.13.13+kotlin.2.4.10"
+    },
+    {
+        "filename": "ferritecore-9.0.0-fabric.jar",
+        "name": "FerriteCore",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "9.0.0"
+    },
+    {
+        "filename": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+        "name": "Forge Config API Port",
+        "url": "https://modrinth.com/mod/ohNO6lps",
+        "version": "26.2.1"
+    },
+    {
+        "filename": "FrozenLib-2.5.3-mc26.2.jar",
+        "name": "FrozenLib",
+        "url": "https://modrinth.com/mod/9KawNmQc",
+        "version": "2.5.3-mc26.2"
+    },
+    {
+        "filename": "InventoryProfilesNext-fabric-26.2-2.3.5.jar",
+        "name": "Inventory Profiles Next",
+        "url": "https://modrinth.com/mod/O7RBXm3n",
+        "version": "2.3.5"
+    },
+    {
+        "filename": "iris-fabric-1.11.2+mc26.2.jar",
+        "name": "Iris",
+        "url": "https://modrinth.com/mod/YL57xq9U",
+        "version": "1.11.2+mc26.2"
+    },
+    {
+        "filename": "IronChests-2.0.7.jar",
+        "name": "Iron Chests",
+        "url": "https://modrinth.com/mod/7mHyGgvW",
+        "version": "2.0.7"
+    },
+    {
+        "filename": "Jade-mc26.2-Fabric-26.2.10.jar",
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH",
+        "version": "26.2.10+fabric"
+    },
+    {
+        "filename": "krypton-0.3.1.jar",
+        "name": "Krypton",
+        "url": "https://modrinth.com/mod/fQEb0iXm",
+        "version": "0.3.1"
+    },
+    {
+        "filename": "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
+        "name": "Leaves Be Gone",
+        "url": "https://modrinth.com/mod/AVq17PqV",
+        "version": "26.2.0"
+    },
+    {
+        "filename": "lithium-fabric-0.25.3+mc26.2.jar",
+        "name": "Lithium",
+        "url": "https://modrinth.com/mod/gvQqBUqZ",
+        "version": "0.25.3+mc26.2"
+    },
+    {
+        "filename": "mcw-bridges-3.1.2-mc26.2fabric.jar",
+        "name": "Macaw's Bridges",
+        "url": "https://modrinth.com/mod/GURcjz8O",
+        "version": "3.1.2"
+    },
+    {
+        "filename": "mcw-doors-1.1.5-mc26.2fabric.jar",
+        "name": "Macaw's Doors",
+        "url": "https://modrinth.com/mod/kNxa8z3e",
+        "version": "1.1.5"
+    },
+    {
+        "filename": "mcw-fences-1.2.1-mc26.2fabric.jar",
+        "name": "Macaw's Fences and Walls",
+        "url": "https://modrinth.com/mod/GmwLse2I",
+        "version": "1.2.1"
+    },
+    {
+        "filename": "mcw-furniture-3.4.2-mc26.2fabric.jar",
+        "name": "Macaw's Furniture",
+        "url": "https://modrinth.com/mod/dtWC90iB",
+        "version": "3.4.1"
+    },
+    {
+        "filename": "mcw-holidays-1.1.2-mc26.2fabric.jar",
+        "name": "Macaw's Holidays",
+        "url": "https://modrinth.com/mod/rH20L2Lp",
+        "version": "1.1.2"
+    },
+    {
+        "filename": "mcw-lights-1.1.5-mc26.2fabric.jar",
+        "name": "Macaw's Lights and Lamps",
+        "url": "https://modrinth.com/mod/w4an97C2",
+        "version": "1.1.5"
+    },
+    {
+        "filename": "mcw-paintings-1.1.0-mc26.2fabric.jar",
+        "name": "Macaw's Paintings",
+        "url": "https://modrinth.com/mod/okE6QVAY",
+        "version": "1.1.0"
+    },
+    {
+        "filename": "mcw-paths-1.1.1-mc26.2fabric.jar",
+        "name": "Macaw's Paths and Pavings",
+        "url": "https://modrinth.com/mod/VRLhWB91",
+        "version": "1.1.1"
+    },
+    {
+        "filename": "mcw-roofs-2.3.3-mc26.2fabric.jar",
+        "name": "Macaw's Roofs",
+        "url": "https://modrinth.com/mod/B8jaH3P1",
+        "version": "2.3.2"
+    },
+    {
+        "filename": "mcw-stairs-1.0.2-mc26.2fabric.jar",
+        "name": "Macaw's Stairs and Balconies",
+        "url": "https://modrinth.com/mod/iP3wH1ha",
+        "version": "1.0.2"
+    },
+    {
+        "filename": "mcw-trapdoors-1.1.5-mc26.2fabric.jar",
+        "name": "Macaw's Trapdoors",
+        "url": "https://modrinth.com/mod/n2fvCDlM",
+        "version": "1.1.5"
+    },
+    {
+        "filename": "mcw-windows-2.4.2-mc26.2fabric.jar",
+        "name": "Macaw's Windows",
+        "url": "https://modrinth.com/mod/C7I0BCni",
+        "version": "2.4.2"
+    },
+    {
+        "filename": "modmenu-20.0.1.jar",
+        "name": "Mod Menu",
+        "url": "https://modrinth.com/mod/mOgUt4GM",
+        "version": "20.0.1"
+    },
+    {
+        "filename": "moreculling-fabric-26.2-1.8.1.jar",
+        "name": "More Culling",
+        "url": "https://modrinth.com/mod/51shyZVL",
+        "version": "1.8.1"
+    },
+    {
+        "filename": "MouseTweaks-fabric-mc26.2-2.31.jar",
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.31"
+    },
+    {
+        "filename": "NaturesCompass-26.2-2.5.1-fabric.jar",
+        "name": "Nature's Compass",
+        "url": "https://modrinth.com/mod/fPetb5Kh",
+        "version": "26.2-2.5.1-fabric"
+    },
+    {
+        "filename": "placeholder-api-3.1.0-beta.1+26.2.jar",
+        "name": "Placeholder API",
+        "url": "https://modrinth.com/mod/eXts2L7r",
+        "version": "3.1.0-beta.1+26.2"
+    },
+    {
+        "filename": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "26.2.1"
+    },
+    {
+        "filename": "respawningshulkers-26.2.0-4.2.jar",
+        "name": "Respawning Shulkers",
+        "url": "https://modrinth.com/mod/gHCmhGUV",
+        "version": "4.2"
+    },
+    {
+        "filename": "RoughlyEnoughItems-26.2.820.jar",
+        "name": "Roughly Enough Items",
+        "url": "https://modrinth.com/mod/nfn13YXA",
+        "version": "26.2.820"
+    },
+    {
+        "filename": "server_waypoint-3.0.3-fabric-mc26.2.jar",
+        "name": "Server Waypoint",
+        "url": "https://modrinth.com/mod/UyBaYBa7",
+        "version": "3.0.3"
+    },
+    {
+        "filename": "shogi-fabric-26.2-26.2.0.4.jar",
+        "name": "Shogi",
+        "url": "https://modrinth.com/mod/bi4iCmsw",
+        "version": "26.2.0.4"
+    },
+    {
+        "filename": "shulkerboxtooltip-fabric-5.4.0+26.2.jar",
+        "name": "Shulker Box Tooltip",
+        "url": "https://modrinth.com/mod/2M01OLQq",
+        "version": "5.4.0+26.2"
+    },
+    {
+        "filename": "SimpleCopperPipes-mc26.2-2.1.7.jar",
+        "name": "Simple Copper Pipes",
+        "url": "https://modrinth.com/mod/9r4ZkgSN",
+        "version": "2.1.7"
+    },
+    {
+        "filename": "sodium-fabric-0.9.1+mc26.2.jar",
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/AANobbMI",
+        "version": "0.9.1+mc26.2"
+    },
+    {
+        "filename": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+        "name": "Sodium Extra",
+        "url": "https://modrinth.com/mod/PtjYWJkn",
+        "version": "0.9.3+mc26.2"
+    },
+    {
+        "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
+        "name": "SuperMartijn642's Config Library",
+        "url": "https://modrinth.com/mod/LN9BxssP",
+        "version": "1.1.8"
+    },
+    {
+        "filename": "supermartijn642corelib-1.1.22-fabric-mc26.2.jar",
+        "name": "SuperMartijn642's Core Lib",
+        "url": "https://modrinth.com/mod/rOUBggPv",
+        "version": "1.1.22"
+    },
+    {
+        "filename": "toms_storage_fabric-26.2-2.11.2.jar",
+        "name": "Tom's Simple Storage Mod",
+        "url": "https://modrinth.com/mod/XZNI4Cpy",
+        "version": "2.11.2"
+    },
+    {
+        "filename": "trade-cycling-fabric-1.0.21+26.2.jar",
+        "name": "Trade Cycling",
+        "url": "https://modrinth.com/mod/qpPoAL6m",
+        "version": "1.0.21+26.2"
+    },
+    {
+        "filename": "trashcans-1.0.18-fabric-mc26.2.jar",
+        "name": "Trash Cans",
+        "url": "https://modrinth.com/mod/4QrnfueM",
+        "version": "1.0.18"
+    },
+    {
+        "filename": "waystones-fabric-26.2-26.2.0.7.jar",
+        "name": "Waystones",
+        "url": "https://modrinth.com/mod/LOpKHB2A",
+        "version": "26.2.0.7"
+    },
+    {
+        "filename": "xaerominimap-fabric-26.2-26.4.2.jar",
+        "name": "Xaero's Minimap",
+        "url": "https://modrinth.com/mod/1bokaNcj",
+        "version": "26.4.2"
+    },
+    {
+        "filename": "xaeroworldmap-fabric-26.2-1.44.2.jar",
+        "name": "Xaero's World Map",
+        "url": "https://modrinth.com/mod/NcUtCpym",
+        "version": "1.44.2"
+    },
+    {
+        "filename": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.9.6+26.2-fabric"
+    },
+    {
+        "filename": "libIPN-fabric-26.2-6.8.2.jar",
+        "name": "libIPN",
+        "url": "https://modrinth.com/mod/onSQdWhM",
+        "version": "6.8.2"
+    }
+]
