@@ -1,5 +1,15 @@
 {
+    "Features": {
+        "enable_auto_refill": {
+            "value": false
+        }
+    },
     "ModSettings": {
-        "first_run": false
+        "enable_updates_check": false,
+        "for_modpack_devs": true,
+        "first_run": false,
+        "enable_auto_refill": {
+            "value": false
+        }
     }
 }

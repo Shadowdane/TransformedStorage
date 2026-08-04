@@ -1,0 +1,227 @@
+{
+    "com.tom.storagemod.menu.CraftingTerminalMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.menu.StorageTerminalMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.menu.InventoryConfiguratorMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.screen.InventoryConfiguratorScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedAutoCrafterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedCrusherScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedFluidPumpScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedMinecartChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedMinecartUnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedPoweredFurnaceScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedPulverizerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AdvancedUnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AlloyFurnaceScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AssemblingMachineScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AutoCrafterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AutoPressMoldMakerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.AutoStonecutterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.BatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.BlockPlacerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ChargingStationScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CoalEngineScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CompressorScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CreativeBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CreativeFluidTankScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CreativeItemSiloScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CrusherScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.CrystalGrowthChamberScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.DrainScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteAutoCrafterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteMinecartChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteMinecartUnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ElitePoweredFurnaceScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EliteUnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.EnergizerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FiltrationPlantScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidDrainerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidFillerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidFreezerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidPumpScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidTankScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.FluidTransposerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.HeatGeneratorScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.InductionSmelterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.InventoryChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.InventoryTeleporterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ItemConveyorBeltLoaderScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ItemConveyorBeltSorterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ItemSiloScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.LightningGeneratorScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MetalPressScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MinecartAdvancedBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MinecartBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MinecartChargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MinecartEliteBatteryBoxScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.MinecartUnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.PlantGrowthChamberScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.PoweredFurnaceScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.PressMoldMakerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.PulverizerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.SawmillScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.SolarPanelScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.StoneLiquefierScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.StoneSolidifierScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.TeleporterScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.ThermalGeneratorScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.TimeControllerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.TransformerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.UnchargerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.WeatherControllerScreen": {
+        "ignore": true
+    },
+    "me.jddev0.ep.screen.XPStorageScreen": {
+        "ignore": true
+    }
+}

@@ -4,7 +4,7 @@
 disabledAddons = [  ]
 
 # We both know JEI is much better. This option hides Vanilla's crafting book button instead of moving it.
-hideVanillaCraftingGuide = false
+hideVanillaCraftingGuide = true
 
 # Set to 'DEFAULT' to enable both buttons and hotkeys. Set to 'BUTTONS' to enable buttons only. Set to 'HOTKEYS' to enable hotkeys only. Set to 'DISABLED' to disable completely.
 mode = "default"

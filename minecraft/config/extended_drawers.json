@@ -21,8 +21,8 @@
     }
   },
   "storage": {
-    "drawerCapacity": 1024,
-    "compactingCapacity": 1024,
+    "drawerCapacity": 8192,
+    "compactingCapacity": 8192,
     "stackSizeAffectsCapacity": false,
     "slotCountAffectsCapacity": true,
     "t1UpgradeMultiplier": 2,
