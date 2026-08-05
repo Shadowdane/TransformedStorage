@@ -59,13 +59,13 @@ defaultVisibility = "activation"
 enableCooldowns = true
 
 # Set to false to simply disable all durability costs. See rules for more fine-grained control.
-enableDurability = true
+enableDurability = false
 
 # Set to true to enable warp modifier items for applying status effects on teleports.
 enableModifiers = true
 
 # Set to false to simply disable all xp costs. See rules for more fine-grained control.
-enableXpCosts = true
+enableXpCosts = false
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -98,7 +98,7 @@ warpSettings = [
 [worldGen]
 
 # Approximate chunk distance between wild waystones being generated. Set to 0 to disable generation.
-chunksBetweenWildWaystones = 25
+chunksBetweenWildWaystones = 50
 
 # Set to 'preset_first' to first use names from the nameGenerationPresets. Set to 'preset_only' to use only those custom names. Set to 'mixed' to have some waystones use custom names, and others random names.
 nameGenerationMode = "preset_first"
