@@ -246,6 +246,12 @@
         "version": "20.0.1"
     },
     {
+        "filename": "modernfix-5.27.19-build.1.jar",
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/TjSm1wrD",
+        "version": "5.27.19-build.1"
+    },
+    {
         "filename": "moreculling-fabric-26.2-1.8.1.jar",
         "name": "More Culling",
         "url": "https://modrinth.com/mod/51shyZVL",
@@ -270,10 +276,10 @@
         "version": "3.1.0-beta.1+26.2"
     },
     {
-        "filename": "PuzzlesLib-v26.2.2-mc26.2.x-Fabric.jar",
+        "filename": "PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
         "name": "Puzzles Lib",
         "url": "https://modrinth.com/mod/QAGBst4M",
-        "version": "26.2.2"
+        "version": "26.2.3"
     },
     {
         "filename": "respawningshulkers-26.2.0-4.2.jar",
@@ -324,10 +330,10 @@
         "version": "0.9.3+mc26.2"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.4.jar",
+        "filename": "StorageDrawers-fabric-26.2-19.1.5.jar",
         "name": "Storage Drawers",
         "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.4"
+        "version": "19.1.5"
     },
     {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
