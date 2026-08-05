@@ -96,12 +96,6 @@
         "version": "1.10.5"
     },
     {
-        "filename": "ExtendedDrawers-5.1.0+mc.26.2.jar",
-        "name": "Extended Drawers",
-        "url": "https://modrinth.com/mod/AhtxbnpG",
-        "version": "5.1.0+mc.26.2"
-    },
-    {
         "filename": "fabric-api-0.156.0+26.2.jar",
         "name": "Fabric API",
         "url": "https://modrinth.com/mod/P7dR8mSH",
@@ -276,10 +270,10 @@
         "version": "3.1.0-beta.1+26.2"
     },
     {
-        "filename": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+        "filename": "PuzzlesLib-v26.2.2-mc26.2.x-Fabric.jar",
         "name": "Puzzles Lib",
         "url": "https://modrinth.com/mod/QAGBst4M",
-        "version": "26.2.1"
+        "version": "26.2.2"
     },
     {
         "filename": "respawningshulkers-26.2.0-4.2.jar",
@@ -330,6 +324,12 @@
         "version": "0.9.3+mc26.2"
     },
     {
+        "filename": "StorageDrawers-fabric-26.2-19.1.4.jar",
+        "name": "Storage Drawers",
+        "url": "https://modrinth.com/mod/3bqn07Ul",
+        "version": "19.1.4"
+    },
+    {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Config Library",
         "url": "https://modrinth.com/mod/LN9BxssP",
@@ -376,6 +376,12 @@
         "name": "Xaero's World Map",
         "url": "https://modrinth.com/mod/NcUtCpym",
         "version": "1.44.2"
+    },
+    {
+        "filename": "XaeroHeadTracker-1.0.0-fabric-26.2.jar",
+        "name": "XaeroHeadTracker",
+        "url": "https://modrinth.com/mod/ckFfIvjk",
+        "version": "1.0.0"
     },
     {
         "filename": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
