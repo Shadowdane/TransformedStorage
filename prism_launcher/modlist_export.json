@@ -66,6 +66,12 @@
         "version": "8.39"
     },
     {
+        "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
+        "name": "Concurrent Chunk Management Engine",
+        "url": "https://modrinth.com/mod/VSNURh3q",
+        "version": "0.4.2-alpha.0.35+26.2"
+    },
+    {
         "filename": "continuity-3.0.1+26.2.jar",
         "name": "Continuity",
         "url": "https://modrinth.com/mod/1IjD5062",
@@ -162,10 +168,22 @@
         "version": "26.2.0"
     },
     {
+        "filename": "litematica-fabric-26.2-0.28.4.jar",
+        "name": "Litematica",
+        "url": "https://modrinth.com/mod/bEpr0Arc",
+        "version": "0.28.4"
+    },
+    {
         "filename": "lithium-fabric-0.25.3+mc26.2.jar",
         "name": "Lithium",
         "url": "https://modrinth.com/mod/gvQqBUqZ",
         "version": "0.25.3+mc26.2"
+    },
+    {
+        "filename": "malilib-fabric-26.2-0.29.3.jar",
+        "name": "MaLiLib",
+        "url": "https://modrinth.com/mod/GcWjdA9I",
+        "version": "0.29.3"
     },
     {
         "filename": "mcw-bridges-3.1.2-mc26.2fabric.jar",
@@ -240,6 +258,12 @@
         "version": "2.4.2"
     },
     {
+        "filename": "minihud-fabric-26.2-0.40.4.jar",
+        "name": "MiniHUD",
+        "url": "https://modrinth.com/mod/UMxybHE8",
+        "version": "0.40.4"
+    },
+    {
         "filename": "modmenu-20.0.1.jar",
         "name": "Mod Menu",
         "url": "https://modrinth.com/mod/mOgUt4GM",
@@ -292,6 +316,12 @@
         "name": "Roughly Enough Items",
         "url": "https://modrinth.com/mod/nfn13YXA",
         "version": "26.2.820"
+    },
+    {
+        "filename": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+        "name": "ScalableLux",
+        "url": "https://modrinth.com/mod/Ps1zyz6x",
+        "version": "0.3.0-alpha.0.3+26.2"
     },
     {
         "filename": "server_waypoint-3.0.3-fabric-mc26.2.jar",

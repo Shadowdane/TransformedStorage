@@ -1,0 +1,8 @@
+GraalVM Java 25.2 (Recommended for best performance)
+https://www.graalvm.org/downloads/
+
+Recommended Java arguments:
+-Xms8192m -Xmx8192m -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseZGC -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseStringDeduplication -XX:+EagerJVMCI -Dgraal.UsePriorityInlining=true -Dgraal.TuneInlinerExploration=1 -Djdk.graal.CompilerConfiguration=enterprise
+
+If your OS supports Large Pages, use the following command:
+-Xms8192m -Xmx8192m -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseZGC -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseStringDeduplication -XX:+UseLargePages -XX:+EagerJVMCI -Dgraal.UsePriorityInlining=true -Dgraal.TuneInlinerExploration=1 -Djdk.graal.CompilerConfiguration=enterprise
