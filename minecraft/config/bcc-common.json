@@ -1,0 +1,21 @@
+{
+  "modpackName": {
+    "value": "Transformed_Storage",
+    "comments": [
+      "Transformed Storage"
+    ]
+  },
+  "modpackVersion": {
+    "value": "26.2-0.0.1",
+    "comments": [
+      "26.2-0.0.1"
+    ]
+  },
+  "useMetadata": {
+    "value": false,
+    "comments": [
+      "Use the metadata.json to determine the modpack version",
+      "ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING"
+    ]
+  }
+}
