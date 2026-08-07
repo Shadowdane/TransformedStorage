@@ -1,2 +1,1 @@
-Complementary Shaders - Reimagined (r5.8.1)
-https://modrinth.com/shader/complementary-reimagined
+Complementary Shaders - Reimagined (r5.8.1) - https://modrinth.com/shader/complementary-reimagined
