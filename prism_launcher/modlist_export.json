@@ -84,6 +84,12 @@
         "version": "26.2.0.3"
     },
     {
+        "filename": "EnchantingInfuser-v26.2.0-mc26.2.x-Fabric.jar",
+        "name": "Enchanting Infuser",
+        "url": "https://modrinth.com/mod/ePv85y52",
+        "version": "26.2.0"
+    },
+    {
         "filename": "energizedpower-3.0.0-rc.1+26.2.x-fabric.jar",
         "name": "Energized Power",
         "url": "https://modrinth.com/mod/6pku8gW1",
@@ -358,6 +364,12 @@
         "name": "Sodium Extra",
         "url": "https://modrinth.com/mod/PtjYWJkn",
         "version": "0.9.3+mc26.2"
+    },
+    {
+        "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",
+        "name": "Stoneworks",
+        "url": "https://modrinth.com/mod/FzyTKtVF",
+        "version": "26.2.0"
     },
     {
         "filename": "StorageDrawers-fabric-26.2-19.1.5.jar",
