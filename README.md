@@ -27,4 +27,4 @@ Transformed Storage is intended to expand upon Minecraft rather than completely 
 
 ## Development
 
-This repository contains configuration files, assets and other files used in the development of **Transformed Storage** modpack.
+Note: This repository contains the development files and configuration for **Transformed Storage** and is not intended to be installed directly. For a playable release, download the modpack from Modrinth.
