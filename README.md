@@ -23,8 +23,7 @@ Transformed Storage is intended to expand upon Minecraft rather than completely 
 - Improved storage and inventory management
 - Lightweight technology and automation
 - Quality-of-life improvements
-- Performance and optimization
-- Improved world generation and exploration
+- Performance and optimizations
 
 ## Development
 
