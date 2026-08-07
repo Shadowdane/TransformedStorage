@@ -1,0 +1,21 @@
+version:4903
+preferredGraphicsBackend:"default"
+graphicsPreset:"custom"
+fullscreen:true
+exclusiveFullscreen:false
+guiScale:3
+maxAnisotropyBit:3
+textureFiltering:2
+improvedTransparency:false
+mipmapLevels:4
+narrator:0
+particles:0
+reducedDebugInfo:false
+renderClouds:"false"
+renderDistance:14
+simulationDistance:12
+screenEffectScale:1.0
+vignette:false
+weatherRadius:9
+autoJump:false
+resourcePacks:["vanilla","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"]

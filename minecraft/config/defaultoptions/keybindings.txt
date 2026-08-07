@@ -127,7 +127,7 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket:
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown:
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:
-key_gui.xaero_quick_confirm:key.keyboard.right.shift:
+key_gui.xaero_quick_confirm:key.keyboard.unknown:
 key_gui.xaero_toggle_dimension:key.keyboard.unknown:
 key_iris.keybind.reload:key.keyboard.r:
 key_iris.keybind.toggleShaders:key.keyboard.k:
