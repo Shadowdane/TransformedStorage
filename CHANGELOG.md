@@ -1,4 +1,8 @@
 
-## 26.2-0.0.1
+## 26.2.0.1-alpha2
 
-- Initial Release for Minecraft 26.2 / Fabric 0.19.3
+-
+
+## 26.2-0.1-alpha1
+
+- Initial Alpha Release for Minecraft 26.2

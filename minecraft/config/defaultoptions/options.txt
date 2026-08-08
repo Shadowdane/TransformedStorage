@@ -18,4 +18,4 @@ screenEffectScale:1.0
 vignette:false
 weatherRadius:9
 autoJump:false
-resourcePacks:["vanilla","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]

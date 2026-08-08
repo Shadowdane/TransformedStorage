@@ -72,6 +72,12 @@
         "version": "0.4.2-alpha.0.35+26.2"
     },
     {
+        "filename": "continuity-3.0.1+26.2.jar",
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/1IjD5062",
+        "version": "3.0.1+26.2"
+    },
+    {
         "filename": "cookingforblockheads-fabric-26.2-26.2.0.2.jar",
         "name": "Cooking for Blockheads",
         "url": "https://modrinth.com/mod/vJnhuDde",
@@ -136,12 +142,6 @@
         "name": "FrozenLib",
         "url": "https://modrinth.com/mod/9KawNmQc",
         "version": "2.5.3-mc26.2"
-    },
-    {
-        "filename": "fusion-1.3.12-fabric-mc26.2.jar",
-        "name": "Fusion",
-        "url": "https://modrinth.com/mod/p19vrgc2",
-        "version": "1.3.12"
     },
     {
         "filename": "gravestones-1.4.2+26.2+A.jar",
@@ -390,10 +390,10 @@
         "version": "26.2.0"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.5.jar",
+        "filename": "StorageDrawers-fabric-26.2-19.1.6.jar",
         "name": "Storage Drawers",
         "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.5"
+        "version": "19.1.6"
     },
     {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
@@ -402,10 +402,10 @@
         "version": "1.1.8"
     },
     {
-        "filename": "supermartijn642corelib-1.1.22-fabric-mc26.2.jar",
+        "filename": "supermartijn642corelib-1.1.23a-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Core Lib",
         "url": "https://modrinth.com/mod/rOUBggPv",
-        "version": "1.1.22"
+        "version": "1.1.23+a"
     },
     {
         "filename": "toms_storage_fabric-26.2-2.11.2.jar",
