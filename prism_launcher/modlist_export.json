@@ -78,6 +78,12 @@
         "version": "3.0.1+26.2"
     },
     {
+        "filename": "Controlling-fabric-26.2-26.2.2.jar",
+        "name": "Controlling",
+        "url": "https://modrinth.com/mod/xv94TkTM",
+        "version": "26.2.2"
+    },
+    {
         "filename": "cookingforblockheads-fabric-26.2-26.2.0.2.jar",
         "name": "Cooking for Blockheads",
         "url": "https://modrinth.com/mod/vJnhuDde",
@@ -88,6 +94,12 @@
         "name": "Crafting Tweaks",
         "url": "https://modrinth.com/mod/DMu0oBKf",
         "version": "26.2.0.2"
+    },
+    {
+        "filename": "datapack-injector-fabric-1.0.0+26.2.jar",
+        "name": "Datapack Injector",
+        "url": "https://modrinth.com/mod/9nFfpUyI",
+        "version": "1.0.0+26.2"
     },
     {
         "filename": "defaultoptions-fabric-26.2-26.2.0.3.jar",
@@ -178,6 +190,12 @@
         "name": "Krypton",
         "url": "https://modrinth.com/mod/fQEb0iXm",
         "version": "0.3.1"
+    },
+    {
+        "filename": "lambdynamiclights-4.12.2+26.2.jar",
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/yBW8D80W",
+        "version": "4.12.2+26.2"
     },
     {
         "filename": "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
@@ -348,6 +366,12 @@
         "version": "0.3.0-alpha.0.3+26.2"
     },
     {
+        "filename": "Searchables-fabric-26.2-1.0.1.jar",
+        "name": "Searchables",
+        "url": "https://modrinth.com/mod/fuuu3xnx",
+        "version": "1.0.1"
+    },
+    {
         "filename": "server_waypoint-3.0.3-fabric-mc26.2.jar",
         "name": "Server Waypoint",
         "url": "https://modrinth.com/mod/UyBaYBa7",
@@ -424,6 +448,12 @@
         "name": "Trash Cans",
         "url": "https://modrinth.com/mod/4QrnfueM",
         "version": "1.0.18"
+    },
+    {
+        "filename": "travelersbackpack-fabric-26.2-11.3.1.jar",
+        "name": "Traveler's Backpack",
+        "url": "https://modrinth.com/mod/rlloIFEV",
+        "version": "11.3.1"
     },
     {
         "filename": "waystones-fabric-26.2-26.2.0.7.jar",
