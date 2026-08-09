@@ -12,11 +12,13 @@ Mod Changes
 - Updated supermartijn642corelib to v1.1.23a
 
 - Initial config for Traveler's Backup mod
-- Changed config options for Continuity connected textures
 - Adjusted crafting recipe for Blank Upgrade for Traveler's Backpack
+- Changed config options for Continuity connected textures
+- Changed Tom's Inventory Hopper to 4 tick cooldown
+- Disabled suction sounds on Simple Copper Pipes 
 - Boosted Jungle Sapling drop rate to 5%
+- Made Shader settings adjustments to default shader settings
 - Removed standalone resource pack for connected glass
-- Made shader adjustments reduced TAA blur and adjusted FXAA settings.
 
 ## 26.2-0.1-alpha1
 
