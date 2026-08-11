@@ -5,6 +5,9 @@ Mod Changes
 - Added Traveler's Backpack v26.2-11.3.1
 - Added Lamb Dynamic Lights v4.12.2+26.2
 - Added Classic Pipes v26.2-1.1.6
+- ElevatorMod v26.2-1.16.4
+- Vein Miner v2.11.2
+- Vein Miner Enchant v2.11.2
 - Added Controlling v26.2-26.2.2
 - Added Searchables v26.2-1.0.1
 - Added Datapack Injector v1.0.0-26.2
