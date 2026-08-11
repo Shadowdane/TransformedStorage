@@ -24,6 +24,7 @@ Configuration Changes
 - Changed Continuity connected textures configuration
 - Changed Tom's Inventory Hopper cooldown to 4 ticks
 - Increased Jungle Sapling drop rate to 5.25%
+- Increased Leaves decay rate
 - Adjusted default shader settings
 - Removed standalone Connected Glass resource pack
 
