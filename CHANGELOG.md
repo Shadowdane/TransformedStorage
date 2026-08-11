@@ -18,6 +18,7 @@ Mod Changes
 - Removed FrozenLib (Dependancy for Simple Copper Pipes)
 
 Configuration Changes
+- Set default keybinds
 - Added initial config for Traveler's Backup mod
 - Adjusted crafting recipe for Blank Upgrade for Traveler's Backpack
 - Adjusted speed of item puller and item ejector upgrades in Energized Power

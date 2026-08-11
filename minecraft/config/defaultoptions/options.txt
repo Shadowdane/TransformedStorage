@@ -1,4 +1,5 @@
 version:4903
+entityDistanceScaling:1.0
 preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 fullscreen:true
@@ -8,14 +9,13 @@ maxAnisotropyBit:3
 textureFiltering:2
 improvedTransparency:false
 mipmapLevels:4
-narrator:0
-particles:0
 reducedDebugInfo:false
 renderClouds:"false"
+cloudRange:32
 renderDistance:14
 simulationDistance:12
-screenEffectScale:1.0
 vignette:false
 weatherRadius:9
 autoJump:false
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
+
