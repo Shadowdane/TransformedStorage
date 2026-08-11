@@ -48,6 +48,12 @@
         "version": "1.2.9"
     },
     {
+        "filename": "classicpipes-fabric-26.2-1.1.6.jar",
+        "name": "Classic Pipes",
+        "url": "https://modrinth.com/mod/xX5VOqpH",
+        "version": "1.1.6"
+    },
+    {
         "filename": "cloth-config-26.2.155.jar",
         "name": "Cloth Config v26.2",
         "url": "https://modrinth.com/mod/9s6osm5g",
@@ -108,16 +114,22 @@
         "version": "26.2.0.3"
     },
     {
+        "filename": "elevatorid-fabric-26.2-1.16.4.jar",
+        "name": "ElevatorMod",
+        "url": "https://modrinth.com/mod/hi2dSXTu",
+        "version": "26.2-1.16.4"
+    },
+    {
         "filename": "EnchantingInfuser-v26.2.0-mc26.2.x-Fabric.jar",
         "name": "Enchanting Infuser",
         "url": "https://modrinth.com/mod/ePv85y52",
         "version": "26.2.0"
     },
     {
-        "filename": "energizedpower-3.0.0-rc.1+26.2.x-fabric.jar",
+        "filename": "energizedpower-3.0.0+26.2.x-fabric.jar",
         "name": "Energized Power",
         "url": "https://modrinth.com/mod/6pku8gW1",
-        "version": "3.0.0-rc.1+26.2.x-fabric"
+        "version": "3.0.0+26.2.x-fabric"
     },
     {
         "filename": "entityculling-fabric-1.10.5-mc26.2.jar",
@@ -148,12 +160,6 @@
         "name": "Forge Config API Port",
         "url": "https://modrinth.com/mod/ohNO6lps",
         "version": "26.2.1"
-    },
-    {
-        "filename": "FrozenLib-2.5.3-mc26.2.jar",
-        "name": "FrozenLib",
-        "url": "https://modrinth.com/mod/9KawNmQc",
-        "version": "2.5.3-mc26.2"
     },
     {
         "filename": "gravestones-1.4.2+26.2+A.jar",
@@ -390,12 +396,6 @@
         "version": "5.4.0+26.2"
     },
     {
-        "filename": "SimpleCopperPipes-mc26.2-2.1.7.jar",
-        "name": "Simple Copper Pipes",
-        "url": "https://modrinth.com/mod/9r4ZkgSN",
-        "version": "2.1.7"
-    },
-    {
         "filename": "sodium-fabric-0.9.1+mc26.2.jar",
         "name": "Sodium",
         "url": "https://modrinth.com/mod/AANobbMI",
@@ -454,6 +454,18 @@
         "name": "Traveler's Backpack",
         "url": "https://modrinth.com/mod/rlloIFEV",
         "version": "11.3.1"
+    },
+    {
+        "filename": "veinminer-fabric-2.11.2.jar",
+        "name": "Veinminer",
+        "url": "https://modrinth.com/mod/OhduvhIc",
+        "version": "2.11.2"
+    },
+    {
+        "filename": "veinminer-enchant-2.11.2.jar",
+        "name": "Veinminer Enchantment",
+        "url": "https://modrinth.com/mod/4sP0LXxp",
+        "version": "2.11.2"
     },
     {
         "filename": "waystones-fabric-26.2-26.2.0.7.jar",
