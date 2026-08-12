@@ -1,5 +1,5 @@
 
-## 26.2.0.1-alpha2
+## 26.2.0.1-alpha2 (8/11/26)
 
 Mod Changes
 - Added Traveler's Backpack v26.2-11.3.1
@@ -29,6 +29,6 @@ Configuration Changes
 - Adjusted default shader settings
 - Removed standalone Connected Glass resource pack
 
-## 26.2-0.1-alpha1
+## 26.2-0.1-alpha1 (8/7/26)
 
 - Initial Alpha Release for Minecraft 26.2
