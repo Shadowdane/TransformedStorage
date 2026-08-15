@@ -29,6 +29,6 @@
     "overlayLineOffsetComment": "The line offset for information rendered on the HUD.",
     "overlayLineOffset": 1,
     "overlaySideComment": "The side for information rendered on the HUD. Ex: LEFT, RIGHT",
-    "overlaySide": "LEFT"
+    "overlaySide": "RIGHT"
   }
 }

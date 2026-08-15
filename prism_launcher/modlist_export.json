@@ -114,6 +114,11 @@
         "version": "26.2.0.3"
     },
     {
+        "filename": "defaultoptions-keybind-companion-1.0.0.jar",
+        "name": "Default Options Keybind Companion",
+        "version": "1.0.0"
+    },
+    {
         "filename": "elevatorid-fabric-26.2-1.16.4.jar",
         "name": "ElevatorMod",
         "url": "https://modrinth.com/mod/hi2dSXTu",
@@ -186,10 +191,10 @@
         "version": "2.0.7"
     },
     {
-        "filename": "Jade-mc26.2-Fabric-26.2.10.jar",
+        "filename": "Jade-mc26.2-Fabric-26.2.11.jar",
         "name": "Jade",
         "url": "https://modrinth.com/mod/nvQzSEkH",
-        "version": "26.2.10+fabric"
+        "version": "26.2.11+fabric"
     },
     {
         "filename": "krypton-0.3.1.jar",
