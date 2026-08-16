@@ -1,32 +1,31 @@
 ## 26.2-0.1-beta1
 
-Added Mods
+### Added Mods
 - Default Options Keybind Companion v26.2+1.0.0
 - Polymorph+ v1.2.1+26.2.0
 - Status Effect Bars v1.0.12
 
-Updated mods
+### Updated Mods
 - Balm v26.2.0.6
-- c2me v26.2-0.4.2-alpha.0.43+26.2
+- C2ME v0.4.2-alpha.0.43+26.2
 - Fabric API v0.157.0+26.2
 - Jade v26.2.11
 - Shogi v26.2.0.5
-- SuperMartinjn642CoreLib v.1.1.24
+- SuperMartijn642CoreLib v1.1.24
 - TrashCans v1.1.0
 - VeinMiner v2.12.0
 - Waystones v26.2.0.9
 
-Configuration Changes
-- Reset keybinds to Minecraft defaults and readjusted some keybinds
-- Set Default Option Keybind Companion to force update keybinds
-- Moved overlay for Nature's Compass to the right side of the screen and down 6 lines.
-- Turned off update notifications on Xaero's mods.
-- Configured IPN to ignore Traveler's Backpacks inventory screens.
-
+### Configuration Changes
+- Reset keybinds to Minecraft defaults and readjusted several keybinds.
+- Set Default Options Keybind Companion to force-apply the updated keybinds once.
+- Moved the Nature's Compass overlay to the right side of the screen and down six lines.
+- Disabled update notifications for Xaero's mods.
+- Configured Inventory Profiles Next to ignore Traveler's Backpack inventory screens.
 
 ## 26.2-0.1-alpha2 (8/11/26)
 
-Mod Changes
+### Mod Changes
 - Added Traveler's Backpack v26.2-11.3.1
 - Added Lamb Dynamic Lights v4.12.2+26.2
 - Added Classic Pipes v26.2-1.1.6
@@ -42,7 +41,7 @@ Mod Changes
 - Removed Simple Copper Pipes due to compatibility issues with Tom's Simple Storage
 - Removed FrozenLib (Dependancy for Simple Copper Pipes)
 
-Configuration Changes
+### Configuration Changes
 - Set default keybinds
 - Added initial config for Traveler's Backup mod
 - Adjusted crafting recipe for Blank Upgrade for Traveler's Backpack
