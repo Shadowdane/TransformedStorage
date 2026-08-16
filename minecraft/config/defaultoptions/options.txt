@@ -5,11 +5,8 @@ graphicsPreset:"custom"
 fullscreen:true
 exclusiveFullscreen:false
 guiScale:3
-maxAnisotropyBit:3
-textureFiltering:2
 improvedTransparency:false
-mipmapLevels:4
-reducedDebugInfo:false
+reducedDebugInfo:true
 renderClouds:"false"
 cloudRange:32
 renderDistance:14
@@ -18,4 +15,3 @@ vignette:false
 weatherRadius:9
 autoJump:false
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
-

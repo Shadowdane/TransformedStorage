@@ -114,9 +114,9 @@
         "version": "26.2.0.3"
     },
     {
-        "filename": "defaultoptions-keybind-companion-1.0.0.jar",
+        "filename": "defaultoptions-keybind-companion-26.2+1.0.0.jar",
         "name": "Default Options Keybind Companion",
-        "version": "1.0.0"
+        "version": "26.2+1.0.0"
     },
     {
         "filename": "elevatorid-fabric-26.2-1.16.4.jar",
@@ -417,6 +417,12 @@
         "name": "Sodium Extra",
         "url": "https://modrinth.com/mod/PtjYWJkn",
         "version": "0.9.3+mc26.2"
+    },
+    {
+        "filename": "status-effect-bars-1.0.12.jar",
+        "name": "Status Effect Bars",
+        "url": "https://modrinth.com/mod/x02cBj9Y",
+        "version": "1.0.12"
     },
     {
         "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",

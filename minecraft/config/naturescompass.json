@@ -27,7 +27,7 @@
     "fixBiomeNamesComment": "Fixes biome names by adding missing spaces. Ex: ForestHills becomes Forest Hills",
     "fixBiomeNames": true,
     "overlayLineOffsetComment": "The line offset for information rendered on the HUD.",
-    "overlayLineOffset": 1,
+    "overlayLineOffset": 6,
     "overlaySideComment": "The side for information rendered on the HUD. Ex: LEFT, RIGHT",
     "overlaySide": "RIGHT"
   }

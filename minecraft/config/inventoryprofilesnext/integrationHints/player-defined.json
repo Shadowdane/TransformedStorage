@@ -241,5 +241,11 @@
     },
     "com.jaquadro.minecraft.storagedrawers.inventory.FramingTableScreen": {
         "ignore": true
-    }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true
+    },
+	"com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": {
+		"ignore": true
+	}
 }
