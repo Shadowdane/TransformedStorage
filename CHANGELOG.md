@@ -1,15 +1,16 @@
-## 26.2-0.1-beta1
+## 26.2-0.1-alpha3 (8/17/26)
 
 ### Added Mods
-- Default Options Keybind Companion v26.2+1.0.0
 - Polymorph+ v1.2.1+26.2.0
 - Status Effect Bars v1.0.12
 
 ### Updated Mods
 - Balm v26.2.0.6
 - C2ME v0.4.2-alpha.0.43+26.2
+- ClassicPipes v26.2-1.1.7
 - Fabric API v0.157.0+26.2
 - Jade v26.2.11
+- LambDynamicLights v4.12.3+26.2
 - Shogi v26.2.0.5
 - SuperMartijn642CoreLib v1.1.24
 - TrashCans v1.1.0
@@ -18,7 +19,6 @@
 
 ### Configuration Changes
 - Reset keybinds to Minecraft defaults and readjusted several keybinds.
-- Set Default Options Keybind Companion to force-apply the updated keybinds once.
 - Moved the Nature's Compass overlay to the right side of the screen and down six lines.
 - Disabled update notifications for Xaero's mods.
 - Configured Inventory Profiles Next to ignore Traveler's Backpack inventory screens.
