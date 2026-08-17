@@ -20,7 +20,7 @@
 ### Configuration Changes
 - Reset keybinds to Minecraft defaults and readjusted several keybinds.
 - Enabled Framed Drawers recipes (they were disabled by mistake)
-- Setup separate collapsable groups in Roughly Enough Items for mods that had more than 10 items.
+- Setup separate collapsible groups in Roughly Enough Items for mods that had more than 10 items.
 - Moved the Nature's Compass overlay to the right side of the screen and down six lines.
 - Disabled update notifications for Xaero's mods.
 - Configured Inventory Profiles Next to ignore Traveler's Backpack inventory screens.
