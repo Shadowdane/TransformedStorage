@@ -43,7 +43,7 @@
 		#Default Value: 30
 		# Default: 30
 		# Range: > 1
-		maximum_cost = 15
+		maximum_cost = 6
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		#Default Value: true
 		scale_costs_by_vanilla_only = true
@@ -65,7 +65,7 @@
 	#Allow enchantments on an already enchanted item to be increased / removed.
 	#Default Value: UNENCHANTED
 	#Allowed Values: UNENCHANTED, ALL, FULL_DURABILITY
-	allow_modifying_enchantments = "UNENCHANTED"
+	allow_modifying_enchantments = "ALL"
 	#How many bookshelves you need around the infuser to be able to apply maximum level enchantments.
 	#Filling in corners is important to reach higher values.
 	#Setting very high values may require modded bookshelves that provide more than one enchanting power per block (such as Apotheosis' bookshelves).
@@ -93,7 +93,7 @@
 		#Default Value: 30
 		# Default: 30
 		# Range: > 1
-		maximum_cost = 20
+		maximum_cost = 12
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		#Default Value: true
 		scale_costs_by_vanilla_only = true
