@@ -250,5 +250,11 @@
     },
     "fuzs.enchantinginfuser.common.client.gui.screens.inventory.InfuserScreen": {
         "ignore": true
+    },
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneModifierScreen": {
+        "ignore": true
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "ignore": true
     }
 }
