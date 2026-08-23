@@ -14,14 +14,22 @@
         "auto_refill_enable_horbar_indicator_icons": {
             "value": false
         },
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "tool_max_durability_threshold": 400,
         "allow_alerts_without_tool_protection": {
             "value": true
+        },
+        "number_of_notifications": 2,
+        "audio_replace_failed_notification": {
+            "value": false
         }
     },
     "Hotkeys": {
         "open_config_menu": {
             "main": {
-                "keys": "LEFT_ALT,C"
+                "keys": "LEFT_ALT,P"
             }
         },
         "reload_custom_configs": {
