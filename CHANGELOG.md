@@ -22,6 +22,7 @@
 - Removed XP cap and adjusted decay time on Gravestones.
 - Removed IPN buttons on the Backpack screens.
 - Changed hotkeys for IPN and enabled Auto Refill settings.
+- Turned off update notifications for Veinminer (hopefully the hidden config flag works!)
 
 ## 26.2-0.1-alpha3 (8/17/26)
 
