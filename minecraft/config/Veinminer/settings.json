@@ -8,6 +8,7 @@
     "permissionRestricted": false,
     "mergeItemDrops": false,
     "autoUpdate": false,
+	"dontDisplayUpdatesAndIWillNotAskForSupportBeforeUpdatingISwear": true,
     "decreaseDurability": false,
     "hungerPerBlock": 0.0,
     "miningSpeedModifier": 0.0,
