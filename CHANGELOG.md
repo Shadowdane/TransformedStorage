@@ -1,3 +1,28 @@
+## 26.2-0.1-alpha4 (8/23/26)
+
+### Added Mods
+- JEIWorldGen v1.4.3
+
+### Updated Mods
+- Cooking for Blockheads v26.2.0.3
+- Crafting Tweaks v26.2.0.3
+- Fabric API v0.158.0+26.2
+- Inventory Profiles Next v2.3.6
+- Litematica v0.28.5
+- MaLiLib v0.29.4
+- MiniHUD v0.40.5
+- Veinminder v2.12.1
+- Xaero's World Map v1.45.0
+- libIPN v6.8.3
+
+### Configuration Changes
+- Reduced the energy capacity for all items & blocks in Energized Power. (Earlier versions had 8x capacity, that was way too high.)
+- Lowered enchanting costs on Enchanted Infuser.
+- Enabled XP costs on Waystones but reduced warp XP costs significantly.
+- Removed XP cap and adjusted decay time on Gravestones.
+- Removed IPN buttons on the Backpack screens.
+- Changed hotkeys for IPN and enabled Auto Refill settings.
+
 ## 26.2-0.1-alpha3 (8/17/26)
 
 ### Added Mods
