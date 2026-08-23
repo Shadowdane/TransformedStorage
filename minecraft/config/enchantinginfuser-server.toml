@@ -43,7 +43,7 @@
 		#Default Value: 30
 		# Default: 30
 		# Range: > 1
-		maximum_cost = 6
+		maximum_cost = 4
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		#Default Value: true
 		scale_costs_by_vanilla_only = true

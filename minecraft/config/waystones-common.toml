@@ -52,7 +52,7 @@ preferJourneyMapIntegrationMod = true
 # Set to true to allow everyone to manage global waystones. Always true if `defaultVisibility` is `global`. Can be overridden by Shogi Rule `may_manage_global_waystones`.
 allowEveryoneToManageGlobalWaystones = false
 
-# Set to "global" to have newly placed or found waystones be global by default.
+# Set to "team" or "global" to have newly placed or found waystones use that visibility by default.
 defaultVisibility = "activation"
 
 # Set to false to simply disable all cooldowns. See rules for more fine-grained control.
@@ -65,7 +65,7 @@ enableDurability = false
 enableModifiers = true
 
 # Set to false to simply disable all xp costs. See rules for more fine-grained control.
-enableXpCosts = false
+enableXpCosts = true
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -88,10 +88,10 @@ warpRequirements = [
 
 # List of variables used in the warpRequirements configuration.
 warpSettings = [ 
-    "$xp_per_block = 0.01", 
+    "$xp_per_block = 0.0005", 
     "$min_xp_cost = 0", 
-    "$max_xp_cost = 27", 
-    "$interdimensional_xp_cost = 27", 
+    "$max_xp_cost = 15", 
+    "$interdimensional_xp_cost = 15", 
     "$inventory_button_cooldown = '300s'"
 ]
 

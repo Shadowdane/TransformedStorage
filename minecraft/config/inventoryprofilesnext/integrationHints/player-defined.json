@@ -245,7 +245,10 @@
     "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
         "ignore": true
     },
-	"com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": {
-		"ignore": true
-	}
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": {
+        "ignore": true
+    },
+    "fuzs.enchantinginfuser.common.client.gui.screens.inventory.InfuserScreen": {
+        "ignore": true
+    }
 }
