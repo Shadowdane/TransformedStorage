@@ -17,14 +17,15 @@
         "allow_break_for_non_enchanted": {
             "value": true
         },
-        "tool_max_durability_threshold": 400,
+        "tool_max_durability_threshold": 1200,
         "allow_alerts_without_tool_protection": {
             "value": true
         },
         "number_of_notifications": 2,
         "audio_replace_failed_notification": {
             "value": false
-        }
+        },
+        "type_visual_replace_failed_notification": "HOTBAR"
     },
     "Hotkeys": {
         "open_config_menu": {

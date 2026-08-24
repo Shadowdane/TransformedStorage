@@ -1,3 +1,12 @@
+## 26.2-0.1-alpha5 (8/23/26)
+
+### Configuration Changes
+- Fixed energy capacity calculations on battery boxes for Energized Power
+- Fixed a few mods items not being grouped in REI
+- Fixed a hotkey conflict for IPN
+- Changed the notification threasholds for unenchanted tools break warnings for IPN
+- Hide IPN buttons on Waystones and Cooking for Blockheads screens
+
 ## 26.2-0.1-alpha4 (8/23/26)
 
 ### Added Mods
