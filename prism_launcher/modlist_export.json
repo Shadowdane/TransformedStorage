@@ -120,6 +120,12 @@
         "version": "26.2-1.16.4"
     },
     {
+        "filename": "enchanted-vertical-slabs-2.7.0-fabric-mc26.2.jar",
+        "name": "Enchanted Vertical Slabs",
+        "url": "https://modrinth.com/mod/TG1cHkRf",
+        "version": "2.7.0"
+    },
+    {
         "filename": "EnchantingInfuser-v26.2.0-mc26.2.x-Fabric.jar",
         "name": "Enchanting Infuser",
         "url": "https://modrinth.com/mod/ePv85y52",
@@ -168,10 +174,16 @@
         "version": "1.4.2"
     },
     {
-        "filename": "InventoryProfilesNext-fabric-26.2-2.3.6.jar",
+        "filename": "inventoryhud.fabric.26.2-3.4.33.jar",
+        "name": "Inventory HUD +",
+        "url": "https://modrinth.com/mod/Kp2uclYl",
+        "version": "3.4.33"
+    },
+    {
+        "filename": "InventoryProfilesNext-fabric-26.2-2.3.7.jar",
         "name": "Inventory Profiles Next",
         "url": "https://modrinth.com/mod/O7RBXm3n",
-        "version": "2.3.6"
+        "version": "2.3.7"
     },
     {
         "filename": "iris-fabric-1.11.2+mc26.2.jar",
@@ -186,10 +198,10 @@
         "version": "2.0.7"
     },
     {
-        "filename": "jeiworldgen-fabric-26.2-1.4.3.jar",
+        "filename": "jeiworldgen-fabric-26.2-1.4.4.jar",
         "name": "JEIWorldGen",
         "url": "https://modrinth.com/mod/YYrsrQ6q",
-        "version": "1.4.3"
+        "version": "1.4.4"
     },
     {
         "filename": "Jade-mc26.2-Fabric-26.2.11.jar",
@@ -354,10 +366,10 @@
         "version": "1.3.1"
     },
     {
-        "filename": "polymorph_plus-fabric-1.2.1+26.2.0.jar",
-        "name": "Polymorph",
+        "filename": "polymorph_plus-fabric-1.3.1+26.2.0.jar",
+        "name": "Polymorph+",
         "url": "https://modrinth.com/mod/3uT4J18I",
-        "version": "1.2.1+26.2.0"
+        "version": "1.3.1+26.2.0"
     },
     {
         "filename": "PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
@@ -390,10 +402,10 @@
         "version": "1.0.1"
     },
     {
-        "filename": "server_waypoint-3.0.3-fabric-mc26.2.jar",
+        "filename": "server_waypoint-3.0.4-fabric-mc26.2.jar",
         "name": "Server Waypoint",
         "url": "https://modrinth.com/mod/UyBaYBa7",
-        "version": "3.0.3"
+        "version": "3.0.4"
     },
     {
         "filename": "shogi-fabric-26.2-26.2.0.5.jar",
@@ -420,22 +432,16 @@
         "version": "0.9.3+mc26.2"
     },
     {
-        "filename": "status-effect-bars-1.0.12.jar",
-        "name": "Status Effect Bars",
-        "url": "https://modrinth.com/mod/x02cBj9Y",
-        "version": "1.0.12"
-    },
-    {
         "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",
         "name": "Stoneworks",
         "url": "https://modrinth.com/mod/FzyTKtVF",
         "version": "26.2.0"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.6.jar",
+        "filename": "StorageDrawers-fabric-26.2-19.1.7.jar",
         "name": "Storage Drawers",
         "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.6"
+        "version": "19.1.7"
     },
     {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
@@ -444,10 +450,10 @@
         "version": "1.1.8"
     },
     {
-        "filename": "supermartijn642corelib-1.1.24-fabric-mc26.2.jar",
+        "filename": "supermartijn642corelib-1.1.24a-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Core Lib",
         "url": "https://modrinth.com/mod/rOUBggPv",
-        "version": "1.1.24"
+        "version": "1.1.24+a"
     },
     {
         "filename": "toms_storage_fabric-26.2-2.11.2.jar",
