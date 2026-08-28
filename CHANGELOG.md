@@ -1,3 +1,25 @@
+## 26.2-0.1-beta1 (8/28/26)
+
+###Fixes/Changes
+- Rebalanced the speed upgrade modules for Energized Power
+- Turned off IPN buttons on the Classic Pipes filter GUIs
+- Added collapsed group for Enchanted Vertical Slabs
+
+###Added Mods
+- Enchanted Vertical Slabs v2.7.0
+- Inventory HUD+
+
+###Removed Mods
+- Status Effect Bars v1.0.12
+
+###Updated Mods
+- Inventory Profiles Next v2.3.7
+- JEIWorldGen v1.4.4
+- Polymorph+ v1.3.1+26.2.0
+- Server Waypoint v3.0.4
+- Storage Drawers v19.1.7
+- SuperMartijn642's Core Lib v1.1.24+a
+
 ## 26.2-0.1-alpha5 (8/23/26)
 
 ### Configuration Changes
