@@ -256,5 +256,11 @@
     },
     "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
         "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.AdvancedCopperPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.AdvancedCopperFluidPipeMenu": {
+        "ignore": true
     }
 }
