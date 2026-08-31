@@ -7,7 +7,7 @@
 
 ###Added Mods
 - Enchanted Vertical Slabs v2.7.0
-- Inventory HUD+
+- Inventory HUD+ v3.4.33
 
 ###Removed Mods
 - Status Effect Bars v1.0.12

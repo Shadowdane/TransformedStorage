@@ -50,7 +50,7 @@ preferJourneyMapIntegrationMod = true
 [rules]
 
 # Set to true to allow everyone to manage global waystones. Always true if `defaultVisibility` is `global`. Can be overridden by Shogi Rule `may_manage_global_waystones`.
-allowEveryoneToManageGlobalWaystones = false
+allowEveryoneToManageGlobalWaystones = true
 
 # Set to "team" or "global" to have newly placed or found waystones use that visibility by default.
 defaultVisibility = "activation"
