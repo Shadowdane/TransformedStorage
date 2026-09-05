@@ -1,3 +1,45 @@
+## 26.2-0.2-beta2 (9/5/26)
+
+### Added Mods
+- Custom Durability v3.3.0
+- Durability Tooltip v1.1.6
+- Emoji Type v3.1.0-26.2
+- ImmediatelyFast v1.16.4+26.2
+- More Chest Variants v1.5.14
+- Simple Voice Chat v2.6.23+26.2
+- Spawner Harvest v1.0.0
+- oωo v0.13.1+26.2
+
+### Updated Mods
+- Balm v26.2.0.7
+- Datapack Injector v1.1.0+26.2
+- Fabric API v0.159.0+26.2
+- Inventory HUD+ v3.4.34
+- LambDynamicLights v4.12.4+26.2
+- Litematica v0.28.8
+- MaLiLib v0.29.6
+- MiniHUD v0.40.7
+- Storage Drawers v19.1.8
+- Tom's Simple Storage Mod v2.11.3
+- Traveler's Backpack v11.3.2
+- Waystones v26.2.0.11
+
+### Energized Power Config Changes
+- Increased all energy values of batteries, battery boxes, transformers, cables, solar panels, lightning generator, heat generator, thermal generators
+- Increased effect scaling on Energy Production Upgrade Modules
+- Increased capacity of fluid tanks for all blocks and machines
+
+### General Configuration Changes
+- Disabled REI category groupings by default (Groupings of mod items are still available, they can be enabled in REI settings)
+- Increased durability of all tools, weapons and armor for all types
+- Updated the default key bindings for Default Options
+- Added arrow emoji shortcuts to Emoji Type
+- Disabled Inventory Profiles Next buttons on all Classic Pipes configuration screens
+- Decreased decay time for leaves on Leaves Be Gone
+- Decreased durability on Nature's Compass
+- Allow everyone to create Global Waystones
+- Changed default shader settings to improve clarity and performance
+
 ## 26.2-0.1-beta1 (8/28/26)
 
 ###Fixes/Changes
