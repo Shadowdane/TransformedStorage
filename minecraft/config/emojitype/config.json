@@ -1,0 +1,9 @@
+{
+  "enabledPacks": [
+    "arrows.yaml",
+    "letters.yaml",
+    "minecraft.yaml",
+    "text_art_faces.yaml"
+  ],
+  "version": 1
+}

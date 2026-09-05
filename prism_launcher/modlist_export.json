@@ -12,10 +12,10 @@
         "version": "21.0.7"
     },
     {
-        "filename": "balm-fabric-26.2-26.2.0.6.jar",
+        "filename": "balm-fabric-26.2-26.2.0.7.jar",
         "name": "Balm",
         "url": "https://modrinth.com/mod/MBAkmtvl",
-        "version": "26.2.0.6"
+        "version": "26.2.0.7"
     },
     {
         "filename": "BetterAdvancements-Fabric-26.2-0.6.0.72.jar",
@@ -102,10 +102,16 @@
         "version": "26.2.0.3"
     },
     {
-        "filename": "datapack-injector-fabric-1.0.0+26.2.jar",
+        "filename": "custom-durability-26.1-3.3.0.jar",
+        "name": "Custom Durability",
+        "url": "https://modrinth.com/mod/u9Ogztnf",
+        "version": "3.3.0"
+    },
+    {
+        "filename": "datapack-injector-fabric-1.1.0+26.2.jar",
         "name": "Datapack Injector",
         "url": "https://modrinth.com/mod/9nFfpUyI",
-        "version": "1.0.0+26.2"
+        "version": "1.1.0+26.2"
     },
     {
         "filename": "defaultoptions-fabric-26.2-26.2.0.3.jar",
@@ -114,10 +120,22 @@
         "version": "26.2.0.3"
     },
     {
+        "filename": "durabilitytooltip-1.1.6-fabric-mc26.2.jar",
+        "name": "Durability Tooltip",
+        "url": "https://modrinth.com/mod/smUP7V3r",
+        "version": "1.1.6"
+    },
+    {
         "filename": "elevatorid-fabric-26.2-1.16.4.jar",
         "name": "ElevatorMod",
         "url": "https://modrinth.com/mod/hi2dSXTu",
         "version": "26.2-1.16.4"
+    },
+    {
+        "filename": "emoji-type-3.1.0-26.2-fabric.jar",
+        "name": "Emoji Type",
+        "url": "https://modrinth.com/mod/q7vRRpxU",
+        "version": "3.1.0-26.2"
     },
     {
         "filename": "enchanted-vertical-slabs-2.7.0-fabric-mc26.2.jar",
@@ -144,10 +162,10 @@
         "version": "1.10.5"
     },
     {
-        "filename": "fabric-api-0.158.0+26.2.jar",
+        "filename": "fabric-api-0.159.0+26.2.jar",
         "name": "Fabric API",
         "url": "https://modrinth.com/mod/P7dR8mSH",
-        "version": "0.158.0+26.2"
+        "version": "0.159.0+26.2"
     },
     {
         "filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
@@ -174,10 +192,16 @@
         "version": "1.4.2"
     },
     {
-        "filename": "inventoryhud.fabric.26.2-3.4.33.jar",
+        "filename": "ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci",
+        "version": "1.16.4+26.2"
+    },
+    {
+        "filename": "inventoryhud.fabric.26.2-3.4.34.jar",
         "name": "Inventory HUD +",
         "url": "https://modrinth.com/mod/Kp2uclYl",
-        "version": "3.4.33"
+        "version": "3.4.34"
     },
     {
         "filename": "InventoryProfilesNext-fabric-26.2-2.3.7.jar",
@@ -216,10 +240,10 @@
         "version": "0.3.1"
     },
     {
-        "filename": "lambdynamiclights-4.12.3+26.2.jar",
+        "filename": "lambdynamiclights-4.12.4+26.2.jar",
         "name": "LambDynamicLights",
         "url": "https://modrinth.com/mod/yBW8D80W",
-        "version": "4.12.3+26.2"
+        "version": "4.12.4+26.2"
     },
     {
         "filename": "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
@@ -228,10 +252,10 @@
         "version": "26.2.0"
     },
     {
-        "filename": "litematica-fabric-26.2-0.28.5.jar",
+        "filename": "litematica-fabric-26.2-0.28.8.jar",
         "name": "Litematica",
         "url": "https://modrinth.com/mod/bEpr0Arc",
-        "version": "0.28.5"
+        "version": "0.28.8"
     },
     {
         "filename": "lithium-fabric-0.25.3+mc26.2.jar",
@@ -240,10 +264,10 @@
         "version": "0.25.3+mc26.2"
     },
     {
-        "filename": "malilib-fabric-26.2-0.29.4.jar",
+        "filename": "malilib-fabric-26.2-0.29.6.jar",
         "name": "MaLiLib",
         "url": "https://modrinth.com/mod/GcWjdA9I",
-        "version": "0.29.4"
+        "version": "0.29.6"
     },
     {
         "filename": "mcw-bridges-3.1.2-mc26.2fabric.jar",
@@ -318,10 +342,10 @@
         "version": "2.4.2"
     },
     {
-        "filename": "minihud-fabric-26.2-0.40.5.jar",
+        "filename": "minihud-fabric-26.2-0.40.7.jar",
         "name": "MiniHUD",
         "url": "https://modrinth.com/mod/UMxybHE8",
-        "version": "0.40.5"
+        "version": "0.40.7"
     },
     {
         "filename": "modmenu-20.0.1.jar",
@@ -334,6 +358,12 @@
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/TjSm1wrD",
         "version": "5.27.19-build.1"
+    },
+    {
+        "filename": "more-chest-variants-1.5.14+26.1.1-fabric.jar",
+        "name": "More Chest Variants",
+        "url": "https://modrinth.com/mod/HKKqmr2p",
+        "version": "1.5.14"
     },
     {
         "filename": "moreculling-fabric-26.2-1.8.1.jar",
@@ -420,6 +450,12 @@
         "version": "5.4.0+26.2"
     },
     {
+        "filename": "voicechat-fabric-2.6.23+26.2.jar",
+        "name": "Simple Voice Chat",
+        "url": "https://modrinth.com/mod/9eGKb6K1",
+        "version": "2.6.23+26.2"
+    },
+    {
         "filename": "sodium-fabric-0.9.1+mc26.2.jar",
         "name": "Sodium",
         "url": "https://modrinth.com/mod/AANobbMI",
@@ -432,16 +468,22 @@
         "version": "0.9.3+mc26.2"
     },
     {
+        "filename": "spawner_harvest-1.0.0.jar",
+        "name": "Spawner Harvest",
+        "url": "https://modrinth.com/mod/PuYgNQnH",
+        "version": "1.0.0"
+    },
+    {
         "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",
         "name": "Stoneworks",
         "url": "https://modrinth.com/mod/FzyTKtVF",
         "version": "26.2.0"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.7.jar",
+        "filename": "StorageDrawers-fabric-26.2-19.1.8.jar",
         "name": "Storage Drawers",
         "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.7"
+        "version": "19.1.8"
     },
     {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
@@ -456,10 +498,10 @@
         "version": "1.1.24+a"
     },
     {
-        "filename": "toms_storage_fabric-26.2-2.11.2.jar",
+        "filename": "toms_storage_fabric-26.2-2.11.3.jar",
         "name": "Tom's Simple Storage Mod",
         "url": "https://modrinth.com/mod/XZNI4Cpy",
-        "version": "2.11.2"
+        "version": "2.11.3"
     },
     {
         "filename": "trade-cycling-fabric-1.0.21+26.2.jar",
@@ -474,10 +516,10 @@
         "version": "1.1.0"
     },
     {
-        "filename": "travelersbackpack-fabric-26.2-11.3.1.jar",
+        "filename": "travelersbackpack-fabric-26.2-11.3.2.jar",
         "name": "Traveler's Backpack",
         "url": "https://modrinth.com/mod/rlloIFEV",
-        "version": "11.3.1"
+        "version": "11.3.2"
     },
     {
         "filename": "veinminer-fabric-2.12.1.jar",
@@ -492,10 +534,10 @@
         "version": "2.11.2"
     },
     {
-        "filename": "waystones-fabric-26.2-26.2.0.9.jar",
+        "filename": "waystones-fabric-26.2-26.2.0.11.jar",
         "name": "Waystones",
         "url": "https://modrinth.com/mod/LOpKHB2A",
-        "version": "26.2.0.9"
+        "version": "26.2.0.11"
     },
     {
         "filename": "xaerominimap-fabric-26.2-26.4.2.jar",
@@ -526,5 +568,11 @@
         "name": "libIPN",
         "url": "https://modrinth.com/mod/onSQdWhM",
         "version": "6.8.3"
+    },
+    {
+        "filename": "owo-lib-0.13.1+26.2.jar",
+        "name": "oωo",
+        "url": "https://modrinth.com/mod/ccKDOlHs",
+        "version": "0.13.1+26.2"
     }
 ]

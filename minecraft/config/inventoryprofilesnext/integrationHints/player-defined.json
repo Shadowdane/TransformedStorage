@@ -262,5 +262,80 @@
     },
     "jagm.classicpipes.inventory.menu.AdvancedCopperFluidPipeMenu": {
         "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.DiamondPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.RoutingPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.ProviderPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.RequestMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.StockingPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.MatchingPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.StoragePipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.RecipePipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.DiamondFluidPipeMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.FilterMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.inventory.menu.FluidFilterMenu": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.DiamondPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.RoutingPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.ProviderPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.RequestScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.RequestAmountScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.StockingPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.MatchingPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.StoragePipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.RecipePipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.DiamondFluidPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.AdvancedCopperPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.AdvancedCopperFluidPipeScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.FilterScreen": {
+        "ignore": true
+    },
+    "jagm.classicpipes.client.screen.FluidFilterScreen": {
+        "ignore": true
     }
 }

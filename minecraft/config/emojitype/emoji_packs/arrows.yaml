@@ -1,0 +1,12 @@
+name: Arrows Emojis
+description: Arrows in different directions as emoji codes
+type: bundled
+emojis:
+  arrow_right: "🡸"
+  arrow_left: "🡺"
+  arrow_up: "🡹"
+  arrow_down: "🡻"
+  arrow_up_left: "🡼"
+  arrow_up_right: "🡽"
+  arrow_down_right: "🡾"
+  arrow_down_left: "🡿"

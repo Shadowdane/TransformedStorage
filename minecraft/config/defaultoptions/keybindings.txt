@@ -8,7 +8,9 @@ key_key.craftingtweaks.compress_stack:key.keyboard.k:
 key_key.craftingtweaks.compress_all:key.keyboard.k:
 key_key.craftingtweaks.refill_last:key.keyboard.tab:
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab:
-key_key.energizedpower.teleporter.use:key.keyboard.v:
+key_key.energizedpower.teleporter.use:key.keyboard.j:
+key_key.inventoryhud.toggle:key.keyboard.i:
+key_key.inventoryhud.openconfig:key.keyboard.o:
 key_key.jade.config:key.keyboard.keypad.0:
 key_key.jade.show_overlay:key.keyboard.keypad.1:
 key_key.jade.toggle_liquid:key.keyboard.keypad.2:
@@ -21,6 +23,10 @@ key_key.toms_storage.open_terminal:key.keyboard.minus:
 key_key.trade_cycling.cycle_trades:key.keyboard.period:
 key_key.travelersbackpack.inventory:key.keyboard.b:
 key_key.travelersbackpack.cycle_tool:key.keyboard.r:
+key_key.mute_microphone:key.keyboard.insert:
+key_key.disable_voice_chat:key.keyboard.delete:
+key_key.hide_icons:key.keyboard.h:
+key_key.voice_chat:key.keyboard.v:
 key_key.xaeroheadtracker.open_settings:key.keyboard.equal:
 key_gui.xaero_new_waypoint:key.keyboard.n:
 key_gui.xaero_waypoints_key:key.keyboard.u:
