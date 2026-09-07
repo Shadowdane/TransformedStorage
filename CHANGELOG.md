@@ -1,3 +1,9 @@
+## 26.2-0.1-beta3a (9/7/26)
+
+### Fixes
+- Fix REI not loading custom crafting recipes on a Multiplayer Server
+- Disable overlay button on IPN screen
+
 ## 26.2-0.1-beta3 (9/7/26)
 
 ### Major Changes
