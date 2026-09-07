@@ -1,0 +1,79 @@
+{
+  "predicate": {
+    "type": "loot-table-modifier:table",
+    "identifiers": [
+      "minecraft:chests/village/village_snowy_house"
+    ]
+  },
+  "actions": [
+    {
+      "type": "loot-table-modifier:pool_add",
+      "pools": [
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.028
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/common_chests/common"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.024
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/common_chests/uncommon"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.016
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/common_chests/rare"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.008
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/common_chests/very_rare"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:wood_iron_upgrade",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:speed_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energizing_speed_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_efficiency_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_production_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_capacity_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:moon_light_upgrade_module_1",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "toms_storage:crafting_terminal",
+          "weight": 25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+
+Common Loot Chest Types (Bonus Roll Chance):
+minecraft:chests/shipwreck_treasure (5%)
+minecraft:chests/buried_treasure (6%)
+minecraft:chests/ruined_portal (3%)
+minecraft:chests/underwater_ruin_small (3%)
+minecraft:chests/underwater_ruin_big (5%)
+minecraft:chests/village/village_desert_house (2%)
+minecraft:chests/village/village_plains_house (2%)
+minecraft:chests/village/village_savanna_house (2%)
+minecraft:chests/village/village_snowy_house (2%)
+minecraft:chests/village/village_taiga_house (2%)
+
+Available Loot Tiers:
+Common
+Uncommon
+Rare
+Very Rare
+
+Loot Table Items to be added:
+energizedpower:silicon (Common)
+energizedpower:tin_ingot (Uncommon)
+energizedpower:basic_upgrade_module (Rare)
+energizedpower:speed_upgrade_module_1 (Very Rare)
+energizedpower:energy_efficiency_upgrade_module_1 (Very Rare)
+energizedpower:energy_production_upgrade_module_1 (Very Rare)
+energizedpower:energy_capacity_upgrade_module_1 (Very Rare)
+energizedpower:moon_light_upgrade_module_1 (Very Rare)
+
+toms_storage:inventory_cable (Common)
+toms_storage:storage_terminal (Uncommon)
+toms_storage:crafting_terminal (Very Rare)
+
+waystones:warp_stone (Uncommon)
+waystones:andesite_waystone (Very Rare)
+
+ironchest:wood_copper_upgrade (Uncommon)
+ironchest:wood_iron_upgrade (Very Rare)
+
+storagedrawers:upgrade_template (Uncommon)
+storagedrawers:obsidian_storage_upgrade (Rare)
+storagedrawers:void_upgrade (Rare)
+
+---------------------------------------------------------------------------------------
+
+Rare Loot Chests Types (Bonus Roll Chance):
+minecraft:chests/simple_dungeon (5%)
+minecraft:chests/pillager_outpost (6%)
+minecraft:chests/stronghold_corridor (6%)
+minecraft:chests/stronghold_crossing (7%)
+minecraft:chests/stronghold_library (8%)
+minecraft:chests/nether_bridge (7%)
+minecraft:chests/woodland_mansion (9%)
+minecraft:chests/bastion_bridge (7%)
+minecraft:chests/bastion_hoglin_stable (7%)
+minecraft:chests/bastion_other (8%)
+minecraft:chests/bastion_treasure (12%)
+minecraft:chests/end_city_treasure (13%)
+minecraft:chests/ancient_city (13%)
+
+Available Loot Tiers:
+Common
+Uncommon
+Rare
+Very Rare
+Exceptional
+
+Loot table Items to be added:
+ironchest:copper_iron_upgrade (Common)
+ironchest:copper_gold_upgrade (Uncommon)
+ironchest:copper_diamond_upgrade (Rare)
+ironchest:copper_emerald_upgrade (Very Rare)
+ironchest:copper_crystal_upgrade (Very Rare)
+ironchest:copper_obsidian_upgrade (Very Rare)
+ironchest:iron_gold_upgrade (Uncommon)
+ironchest:iron_diamond_upgrade (Rare)
+ironchest:iron_emerald_upgrade (Very Rare)
+ironchest:iron_crystal_upgrade (Very Rare)
+ironchest:iron_obsidian_upgrade (Very Rare)
+ironchest:gold_diamond_upgrade (Rare)
+ironchest:gold_emerald_upgrade (Very Rare)
+ironchest:gold_crystal_upgrade (Very Rare)
+ironchest:gold_obsidian_upgrade (Very Rare)
+ironchest:diamond_obsidian_upgrade (Very Rare)
+ironchest:diamond_crystal_upgrade (Very Rare)
+ironchest:emerald_obsidian_upgrade (Very Rare)
+ironchest:emerald_crystal_upgrade (Very Rare)
+
+storagedrawers:obsidian_storage_upgrade (Common)
+storagedrawers:copper_storage_upgrade (Common)
+storagedrawers:iron_storage_upgrade (Uncommon)
+storagedrawers:gold_storage_upgrade (Uncommon)
+storagedrawers:emerald_storage_upgrade (Rare)
+storagedrawers:diamond_storage_upgrade (Very Rare)
+storagedrawers:netherite_storage_upgrade (Exceptional)
+storagedrawers:void_upgrade (Common)
+storagedrawers:upgrade_template (Common)
+
+energizedpower:basic_upgrade_module (Common)
+energizedpower:advanced_upgrade_module (Rare)
+energizedpower:reinforced_advanced_upgrade_module (Very Rare)
+energizedpower:elite_upgrade_module (Exceptional)
+energizedpower:speed_upgrade_module_1 (Uncommon)
+energizedpower:speed_upgrade_module_2 (Rare)
+energizedpower:speed_upgrade_module_3 (Rare)
+energizedpower:speed_upgrade_module_4 (Very Rare)
+energizedpower:speed_upgrade_module_5 (Very Rare)
+energizedpower:speed_upgrade_module_6 (Exceptional)
+energizedpower:speed_upgrade_module_7 (Exceptional)
+energizedpower:speed_upgrade_module_8 (Exceptional)
+energizedpower:energizing_speed_upgrade_module_1 (Rare)
+energizedpower:energizing_speed_upgrade_module_2 (Rare)
+energizedpower:energizing_speed_upgrade_module_3 (Very Rare)
+energizedpower:energizing_speed_upgrade_module_4 (Very Rare)
+energizedpower:energizing_speed_upgrade_module_5 (Exceptional)
+energizedpower:energizing_speed_upgrade_module_6 (Exceptional)
+energizedpower:energizing_speed_upgrade_module_7 (Exceptional)
+energizedpower:energizing_speed_upgrade_module_8 (Exceptional)
+energizedpower:energy_efficiency_upgrade_module_1 (Uncommon)
+energizedpower:energy_efficiency_upgrade_module_2 (Rare)
+energizedpower:energy_efficiency_upgrade_module_3 (Rare)
+energizedpower:energy_efficiency_upgrade_module_4 (Very Rare)
+energizedpower:energy_efficiency_upgrade_module_5 (Very Rare)
+energizedpower:energy_efficiency_upgrade_module_6 (Exceptional)
+energizedpower:energy_efficiency_upgrade_module_7 (Exceptional)
+energizedpower:energy_efficiency_upgrade_module_8 (Exceptional)
+energizedpower:energy_production_upgrade_module_1 (Uncommon)
+energizedpower:energy_production_upgrade_module_2 (Rare)
+energizedpower:energy_production_upgrade_module_3 (Rare)
+energizedpower:energy_production_upgrade_module_4 (Very Rare)
+energizedpower:energy_production_upgrade_module_5 (Very Rare)
+energizedpower:energy_production_upgrade_module_6 (Exceptional)
+energizedpower:energy_production_upgrade_module_7 (Exceptional)
+energizedpower:energy_production_upgrade_module_8 (Exceptional)
+energizedpower:energy_capacity_upgrade_module_1 (Uncommon)
+energizedpower:energy_capacity_upgrade_module_2 (Rare)
+energizedpower:energy_capacity_upgrade_module_3 (Rare)
+energizedpower:energy_capacity_upgrade_module_4 (Very Rare)
+energizedpower:energy_capacity_upgrade_module_5 (Very Rare)
+energizedpower:energy_capacity_upgrade_module_6 (Exceptional)
+energizedpower:energy_capacity_upgrade_module_7 (Exceptional)
+energizedpower:energy_capacity_upgrade_module_8 (Exceptional)
+energizedpower:moon_light_upgrade_module_1 (Uncommon)
+energizedpower:moon_light_upgrade_module_2 (Rare)
+energizedpower:moon_light_upgrade_module_3 (Very Rare)
+energizedpower:moon_light_upgrade_module_4 (Exceptional)
+energizedpower:moon_light_upgrade_module_5 (Exceptional)

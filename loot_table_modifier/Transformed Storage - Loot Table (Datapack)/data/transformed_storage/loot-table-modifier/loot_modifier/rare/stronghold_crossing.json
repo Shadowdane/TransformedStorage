@@ -1,0 +1,95 @@
+{
+  "predicate": {
+    "type": "loot-table-modifier:table",
+    "identifiers": [
+      "minecraft:chests/stronghold_crossing"
+    ]
+  },
+  "actions": [
+    {
+      "type": "loot-table-modifier:pool_add",
+      "pools": [
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.098
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/rare_chests/common"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.084
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/rare_chests/uncommon"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.056
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/rare_chests/rare"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.028
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/rare_chests/very_rare"
+            }
+          ]
+        },
+        {
+          "rolls": 1.0,
+          "bonus_rolls": 0.0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.014
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "transformed_storage:bonus/rare_chests/exceptional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

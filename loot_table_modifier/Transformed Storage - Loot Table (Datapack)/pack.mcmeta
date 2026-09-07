@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Transformed Storage - Bonus Exploration Loot",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  }
+}

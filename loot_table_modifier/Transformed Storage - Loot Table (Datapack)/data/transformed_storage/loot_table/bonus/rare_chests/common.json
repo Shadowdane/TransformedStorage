@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "storagedrawers:upgrade_template",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "storagedrawers:void_upgrade",
+          "weight": 90
+        },
+        {
+          "type": "minecraft:item",
+          "name": "storagedrawers:obsidian_storage_upgrade",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "storagedrawers:copper_storage_upgrade",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:copper_iron_upgrade",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:basic_upgrade_module",
+          "weight": 25
+        }
+      ]
+    }
+  ]
+}

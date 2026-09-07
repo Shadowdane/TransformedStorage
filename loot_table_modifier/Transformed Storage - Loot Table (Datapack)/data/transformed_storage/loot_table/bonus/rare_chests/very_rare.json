@@ -1,0 +1,121 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "storagedrawers:diamond_storage_upgrade",
+          "weight": 100
+        },
+		{
+          "type": "minecraft:item",
+          "name": "ironchest:gold_emerald_upgrade",
+          "weight": 85
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:gold_crystal_upgrade",
+          "weight": 85
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:gold_obsidian_upgrade",
+          "weight": 85
+        },
+		{
+          "type": "minecraft:item",
+          "name": "ironchest:iron_emerald_upgrade",
+          "weight": 80
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:iron_crystal_upgrade",
+          "weight": 80
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:iron_obsidian_upgrade",
+          "weight": 80
+        },		
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:copper_emerald_upgrade",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:copper_crystal_upgrade",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ironchest:copper_obsidian_upgrade",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:speed_upgrade_module_4",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energizing_speed_upgrade_module_4",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_efficiency_upgrade_module_4",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_production_upgrade_module_4",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_capacity_upgrade_module_4",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:reinforced_advanced_upgrade_module",
+          "weight": 50
+        },
+		{
+          "type": "minecraft:item",
+          "name": "energizedpower:moon_light_upgrade_module_3",
+          "weight": 25
+        },		
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:speed_upgrade_module_5",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energizing_speed_upgrade_module_5",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_efficiency_upgrade_module_5",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_production_upgrade_module_5",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "energizedpower:energy_capacity_upgrade_module_5",
+          "weight": 25
+        }
+      ]
+    }
+  ]
+}
