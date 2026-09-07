@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": "#c:leathers",
+    "S": "#c:strings",
+    "A": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    "SLS",
+    "LAL",
+    "SLS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "travelersbackpack:blank_upgrade"
+  }
+}

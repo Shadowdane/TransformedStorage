@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+	"R": "minecraft:redstone",
+	"C": "minecraft:cactus",
+    "U": "storagedrawers:upgrade_template",
+    "O": "minecraft:obsidian",
+	"S": "minecraft:stick"
+  },
+  "pattern": [
+    "RCR",
+    "OUO",
+    "SSS"
+  ],
+  "result": {
+	"count": 1,
+    "id": "storagedrawers:void_upgrade"
+  }
+}
