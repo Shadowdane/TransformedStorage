@@ -1,4 +1,21 @@
-## 26.2-0.2-beta2 (9/5/26)
+## 26.2-0.1-beta3 (9/7/26)
+
+### Major Changes
+- Added custom loot table datapack for Loot Table Modifier.  Includes loot drops from the included mods in this modpack.
+
+### Updated Mod Loader
+- Fabric Loader v0.19.5
+
+### Added Mods
+- Advanced Loot Info v1.12.1
+- Loot Table Modifier v2.3.1+fabric+26.1
+- MonkeyLib538 v5.3.0+fabric+26.2
+
+### Configuration Changes
+- Created custom crafting recipe for Storage Drawers - Void Upgrade
+- Keybind conflict with Simple Voice Chat mod, reassigned the default keybind for hide voice icons.
+
+## 26.2-0.1-beta2 (9/5/26)
 
 ### Added Mods
 - Custom Durability v3.3.0
