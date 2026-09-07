@@ -18,22 +18,22 @@
         {
           "type": "minecraft:item",
           "name": "storagedrawers:obsidian_storage_upgrade",
-          "weight": 75
+          "weight": 80
         },
         {
           "type": "minecraft:item",
           "name": "storagedrawers:copper_storage_upgrade",
-          "weight": 50
+          "weight": 60
         },
         {
           "type": "minecraft:item",
           "name": "ironchest:copper_iron_upgrade",
-          "weight": 50
+          "weight": 60
         },
         {
           "type": "minecraft:item",
           "name": "energizedpower:basic_upgrade_module",
-          "weight": 25
+          "weight": 50
         }
       ]
     }

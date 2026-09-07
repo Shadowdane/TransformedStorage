@@ -8,16 +8,11 @@
         {
           "type": "minecraft:item",
           "name": "ironchest:wood_iron_upgrade",
-          "weight": 75
+          "weight": 100
         },
         {
           "type": "minecraft:item",
           "name": "energizedpower:speed_upgrade_module_1",
-          "weight": 50
-        },
-        {
-          "type": "minecraft:item",
-          "name": "energizedpower:energizing_speed_upgrade_module_1",
           "weight": 50
         },
         {

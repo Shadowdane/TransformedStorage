@@ -15,7 +15,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.084
+              "chance": 0.10
             }
           ],
           "entries": [
@@ -31,7 +31,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.072
+              "chance": 0.08
             }
           ],
           "entries": [
@@ -47,7 +47,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.048
+              "chance": 0.06
             }
           ],
           "entries": [
@@ -63,7 +63,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.024
+              "chance": 0.03
             }
           ],
           "entries": [
@@ -79,7 +79,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.012
+              "chance": 0.015
             }
           ],
           "entries": [

@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "energizedpower:silicon",
-          "weight": 75,
+          "weight": 100,
           "functions": [
             {
               "function": "minecraft:set_count",

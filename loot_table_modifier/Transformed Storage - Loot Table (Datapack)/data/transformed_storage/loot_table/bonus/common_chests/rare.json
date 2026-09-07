@@ -8,12 +8,12 @@
         {
           "type": "minecraft:item",
           "name": "energizedpower:basic_upgrade_module",
-          "weight": 80
+          "weight": 100
         },
         {
           "type": "minecraft:item",
           "name": "storagedrawers:void_upgrade",
-          "weight": 75
+          "weight": 80
         },
         {
           "type": "minecraft:item",
