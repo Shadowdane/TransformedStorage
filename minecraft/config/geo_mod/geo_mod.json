@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 4,
+  "defaultEmissiveLightLevel": 8,
+  "disabledEntries": [],
+  "namespaceModOverrides": {},
+  "emissiveLightLevels": {
+    "energizedpower:deepslate_tin_ore": 6,
+    "energizedpower:tin_ore": 6,
+    "minecraft:coal_ore": 4,
+    "minecraft:deepslate_coal_ore": 4,
+    "minecraft:large_amethyst_bud": 6,
+    "minecraft:medium_amethyst_bud": 5,
+    "minecraft:small_amethyst_bud": 4
+  }
+}
