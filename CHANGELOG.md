@@ -1,3 +1,40 @@
+## 26.2-0.1.0 (9/18/26)
+
+- Changed to a semantic version numbering format
+
+### Configuration Changes
+- Complete restructuring of the loot table modifier datapack
+- Rebalanced all loot tables for modded items in structure chests
+- Unbound a few mod keybinds by default to reduce keybind clutter
+
+### Shader Changes
+- Updated Complementary Shaders Reimagined to r5.9.3
+- Created default shader config for r5.9.3
+- Removed the custom Complementary Shaders version (Glowing Ores are now provided by the GEODE mod)
+
+### Added Mods
+- AdvancedCoreInfo v1.2.0
+- Default Options Keybind Companion v26.2+1.0.0
+- Glowing Emissive Ores Definitive Edition (GEODE) v1.0.2-rp1.113.0
+
+### Updated Mods
+- AdvancedLootInfo v2.2.0
+- Architectury v21.1.9
+- Balm v26.2.0.8
+- Concurrent Chunk Management Engine v0.4.2-alpha.0.52+26.2
+- Cooking for Blockheads v26.2.0.4
+- Durability Tooltip v1.2.0
+- Fabric API v0.160.0+26.2
+- Fabric Language Kotlin v1.14.1+kotlin.2.4.20
+- ImmediatelyFast v1.16.5+26.2
+- JEIWorldGen v1.4.5
+- Mod Menu v20.0.2
+- Puzzles Lib v26.2.4
+- Shulker Box Tooltip v26.2.0.12
+- Xaero's Minimap v26.5.1
+- Xaero's World Map v1.46.1
+
+
 ## 26.2-0.1-beta3a (9/7/26)
 
 ### Fixes
