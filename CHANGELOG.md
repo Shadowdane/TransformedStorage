@@ -5,6 +5,8 @@
 ### Configuration Changes
 - Complete restructuring of the loot table modifier datapack
 - Rebalanced all loot tables for modded items in structure chests
+- Increased base durability of tools and armors by 60%
+- Reset view pitch on using Elevator block
 - Unbound a few mod keybinds by default to reduce keybind clutter
 
 ### Shader Changes
