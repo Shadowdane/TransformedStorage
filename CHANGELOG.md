@@ -1,3 +1,17 @@
+## 26.2-0.1.1 (9/20/26)
+
+### Configuration Changes
+- Increased the base range on the Advanced Wireless Terminal to 192 blocks. 
+
+### Added Mods
+- Leash Villager v1.0.0+mc26.2
+
+### Updated Mods
+- Controlling v26.2.4
+- Fabric API v0.161.0+26.2
+- Simple Voice Chat v2.6.24+26.2
+- Trade Cycling v1.0.22+26.2
+
 ## 26.2-0.1.0 (9/18/26)
 
 - Changed to a semantic version numbering format

@@ -4,7 +4,7 @@
   "invConnectorScanRange": 16,
   "wirelessRange": 32,
   "invConnectorMaxCables": 2048,
-  "advWirelessRange": 128,
+  "advWirelessRange": 192,
   "basicHopperCooldown": 4,
   "wirelessTermBeaconLvl": 1,
   "wirelessTermBeaconLvlCrossDim": 4,
