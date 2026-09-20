@@ -180,10 +180,10 @@
         "version": "1.10.5"
     },
     {
-        "filename": "fabric-api-0.160.0+26.2.jar",
+        "filename": "fabric-api-0.161.0+26.2.jar",
         "name": "Fabric API",
         "url": "https://modrinth.com/mod/P7dR8mSH",
-        "version": "0.160.0+26.2"
+        "version": "0.161.0+26.2"
     },
     {
         "filename": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
@@ -492,10 +492,10 @@
         "version": "5.4.1+26.2"
     },
     {
-        "filename": "voicechat-fabric-2.6.23+26.2.jar",
+        "filename": "voicechat-fabric-2.6.24+26.2.jar",
         "name": "Simple Voice Chat",
         "url": "https://modrinth.com/mod/9eGKb6K1",
-        "version": "2.6.23+26.2"
+        "version": "2.6.24+26.2"
     },
     {
         "filename": "sodium-fabric-0.9.1+mc26.2.jar",
