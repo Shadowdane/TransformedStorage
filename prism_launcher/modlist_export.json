@@ -96,10 +96,10 @@
         "version": "3.0.1+26.2"
     },
     {
-        "filename": "Controlling-fabric-26.2-26.2.2.jar",
+        "filename": "Controlling-fabric-26.2-26.2.4.jar",
         "name": "Controlling",
         "url": "https://modrinth.com/mod/xv94TkTM",
-        "version": "26.2.2"
+        "version": "26.2.4"
     },
     {
         "filename": "cookingforblockheads-fabric-26.2-26.2.0.4.jar",
@@ -268,6 +268,12 @@
         "name": "LambDynamicLights",
         "url": "https://modrinth.com/mod/yBW8D80W",
         "version": "4.12.4+26.2"
+    },
+    {
+        "filename": "leash-villager-1.0.0+mc26.2.jar",
+        "name": "Leash Villager",
+        "url": "https://modrinth.com/mod/Nken9kmQ",
+        "version": "1.0.0+mc26.2"
     },
     {
         "filename": "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
@@ -540,10 +546,10 @@
         "version": "2.11.3"
     },
     {
-        "filename": "trade-cycling-fabric-1.0.21+26.2.jar",
+        "filename": "trade-cycling-fabric-1.0.22+26.2.jar",
         "name": "Trade Cycling",
         "url": "https://modrinth.com/mod/qpPoAL6m",
-        "version": "1.0.21+26.2"
+        "version": "1.0.22+26.2"
     },
     {
         "filename": "trashcans-1.1.0-fabric-mc26.2.jar",
