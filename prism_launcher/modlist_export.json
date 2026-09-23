@@ -216,6 +216,12 @@
         "version": "1.4.2"
     },
     {
+        "filename": "HeldItemTooltips-v26.2.0-mc26.2.x-Fabric.jar",
+        "name": "Held Item Tooltips",
+        "url": "https://modrinth.com/mod/3wWtgZGB",
+        "version": "26.2.0"
+    },
+    {
         "filename": "ImmediatelyFast-Fabric-1.16.5+26.2.jar",
         "name": "ImmediatelyFast",
         "url": "https://modrinth.com/mod/5ZwdcRci",
