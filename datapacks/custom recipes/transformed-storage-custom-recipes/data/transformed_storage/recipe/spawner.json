@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"A": "energizedpower:advanced_alloy_ingot",
+		"I": "minecraft:iron_bars",
+		"N": "minecraft:nether_star",
+		"E": "energizedpower:energized_crystal_matrix"
+	},
+	"pattern": [
+		"AIA",
+		"INI",
+		"AEA"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:spawner"
+	}
+}

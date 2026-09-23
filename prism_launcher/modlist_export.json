@@ -18,10 +18,10 @@
         "version": "3.0.10+mc26.2"
     },
     {
-        "filename": "architectury-fabric-21.1.9.jar",
+        "filename": "architectury-fabric-21.1.10.jar",
         "name": "Architectury",
         "url": "https://modrinth.com/mod/lhGA9TYQ",
-        "version": "21.1.9"
+        "version": "21.1.10"
     },
     {
         "filename": "balm-fabric-26.2-26.2.0.8.jar",
@@ -78,10 +78,10 @@
         "version": "26.2.1"
     },
     {
-        "filename": "collective-26.2.0-8.39.jar",
+        "filename": "collective-26.2.0-8.40.jar",
         "name": "Collective",
         "url": "https://modrinth.com/mod/e0M1UDsY",
-        "version": "8.39"
+        "version": "8.40"
     },
     {
         "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar",
@@ -168,10 +168,10 @@
         "version": "26.2.0"
     },
     {
-        "filename": "energizedpower-3.0.0+26.2.x-fabric.jar",
+        "filename": "energizedpower-3.0.1+26.2.x-fabric.jar",
         "name": "Energized Power",
         "url": "https://modrinth.com/mod/6pku8gW1",
-        "version": "3.0.0+26.2.x-fabric"
+        "version": "3.0.1+26.2.x-fabric"
     },
     {
         "filename": "entityculling-fabric-1.10.5-mc26.2.jar",
@@ -492,6 +492,12 @@
         "version": "5.4.1+26.2"
     },
     {
+        "filename": "silkiertouch-26.2.0-1.3.jar",
+        "name": "Silkier Touch",
+        "url": "https://modrinth.com/mod/dUaXeoyM",
+        "version": "1.3"
+    },
+    {
         "filename": "voicechat-fabric-2.6.24+26.2.jar",
         "name": "Simple Voice Chat",
         "url": "https://modrinth.com/mod/9eGKb6K1",
@@ -508,12 +514,6 @@
         "name": "Sodium Extra",
         "url": "https://modrinth.com/mod/PtjYWJkn",
         "version": "0.9.3+mc26.2"
-    },
-    {
-        "filename": "spawner_harvest-1.0.0.jar",
-        "name": "Spawner Harvest",
-        "url": "https://modrinth.com/mod/PuYgNQnH",
-        "version": "1.0.0"
     },
     {
         "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",
@@ -534,10 +534,10 @@
         "version": "1.1.8"
     },
     {
-        "filename": "supermartijn642corelib-1.1.24a-fabric-mc26.2.jar",
+        "filename": "supermartijn642corelib-1.1.24b-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Core Lib",
         "url": "https://modrinth.com/mod/rOUBggPv",
-        "version": "1.1.24+a"
+        "version": "1.1.24+b"
     },
     {
         "filename": "toms_storage_fabric-26.2-2.11.3.jar",
@@ -600,10 +600,10 @@
         "version": "1.0.0"
     },
     {
-        "filename": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+        "filename": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
         "name": "YetAnotherConfigLib",
         "url": "https://modrinth.com/mod/1eAoo2KR",
-        "version": "3.9.6+26.2-fabric"
+        "version": "3.9.7+26.2-fabric"
     },
     {
         "filename": "libIPN-fabric-26.2-6.8.3.jar",

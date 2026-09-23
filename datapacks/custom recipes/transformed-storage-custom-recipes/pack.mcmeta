@@ -1,5 +1,6 @@
 {
   "pack": {
+	"description": "Transformed Storage - Customized Crafting Recipes",
     "min_format": [
       107,
       1
@@ -7,7 +8,6 @@
     "max_format": [
       107,
       1
-    ],
-    "description": "Transformed Storage - Custom Recipes"
+    ]
   }
 }

@@ -1,0 +1,33 @@
+{
+	"predicate": {
+		"type": "loot-table-modifier:table",
+		"identifiers": [
+			"minecraft:entities/skeleton"
+		]
+	},
+	"actions": [
+		{
+			"type": "loot-table-modifier:pool_add",
+			"pools": [
+				{
+					"rolls": 1,
+					"conditions": [
+						{
+							"condition": "minecraft:killed_by_player"
+						},
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.015
+						}
+					],
+					"entries": [
+						{
+							"type": "minecraft:item",
+							"name": "minecraft:skeleton_spawn_egg"
+						}
+					]
+				}
+			]
+		}
+	]
+}
