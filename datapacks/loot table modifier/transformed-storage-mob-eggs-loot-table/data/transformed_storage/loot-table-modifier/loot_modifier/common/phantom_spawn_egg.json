@@ -2,7 +2,7 @@
 	"predicate": {
 		"type": "loot-table-modifier:table",
 		"identifiers": [
-			"minecraft:entities/magma_cube"
+			"minecraft:entities/phantom"
 		]
 	},
 	"actions": [
@@ -17,13 +17,13 @@
 						},
 						{
 							"condition": "minecraft:random_chance",
-							"chance": 0.015
+							"chance": 0.008
 						}
 					],
 					"entries": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:magma_cube_spawn_egg"
+							"name": "minecraft:phantom_spawn_egg"
 						}
 					]
 				}

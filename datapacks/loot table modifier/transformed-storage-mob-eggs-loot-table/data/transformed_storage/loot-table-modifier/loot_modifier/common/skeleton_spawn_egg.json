@@ -2,7 +2,7 @@
 	"predicate": {
 		"type": "loot-table-modifier:table",
 		"identifiers": [
-			"minecraft:entities/guardian"
+			"minecraft:entities/skeleton"
 		]
 	},
 	"actions": [
@@ -17,13 +17,13 @@
 						},
 						{
 							"condition": "minecraft:random_chance",
-							"chance": 0.005
+							"chance": 0.008
 						}
 					],
 					"entries": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:guardian_spawn_egg"
+							"name": "minecraft:skeleton_spawn_egg"
 						}
 					]
 				}

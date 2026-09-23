@@ -2,7 +2,7 @@
 	"predicate": {
 		"type": "loot-table-modifier:table",
 		"identifiers": [
-			"minecraft:entities/blaze"
+			"minecraft:entities/bogged"
 		]
 	},
 	"actions": [
@@ -17,13 +17,13 @@
 						},
 						{
 							"condition": "minecraft:random_chance",
-							"chance": 0.005
+							"chance": 0.008
 						}
 					],
 					"entries": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:blaze_spawn_egg"
+							"name": "minecraft:bogged_spawn_egg"
 						}
 					]
 				}

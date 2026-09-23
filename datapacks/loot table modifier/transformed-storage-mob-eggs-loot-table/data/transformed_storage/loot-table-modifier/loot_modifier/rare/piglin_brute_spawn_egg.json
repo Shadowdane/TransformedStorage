@@ -2,7 +2,7 @@
 	"predicate": {
 		"type": "loot-table-modifier:table",
 		"identifiers": [
-			"minecraft:entities/bogged"
+			"minecraft:entities/piglin_brute"
 		]
 	},
 	"actions": [
@@ -17,13 +17,13 @@
 						},
 						{
 							"condition": "minecraft:random_chance",
-							"chance": 0.015
+							"chance": 0.003
 						}
 					],
 					"entries": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:bogged_spawn_egg"
+							"name": "minecraft:piglin_brute_spawn_egg"
 						}
 					]
 				}

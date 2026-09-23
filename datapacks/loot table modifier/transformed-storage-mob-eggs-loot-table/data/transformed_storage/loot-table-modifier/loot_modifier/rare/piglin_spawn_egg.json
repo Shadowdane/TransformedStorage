@@ -2,7 +2,7 @@
 	"predicate": {
 		"type": "loot-table-modifier:table",
 		"identifiers": [
-			"minecraft:entities/wither_skeleton"
+			"minecraft:entities/piglin"
 		]
 	},
 	"actions": [
@@ -17,13 +17,13 @@
 						},
 						{
 							"condition": "minecraft:random_chance",
-							"chance": 0.005
+							"chance": 0.003
 						}
 					],
 					"entries": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:wither_skeleton_spawn_egg"
+							"name": "minecraft:piglin_spawn_egg"
 						}
 					]
 				}
