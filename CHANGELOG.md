@@ -1,23 +1,27 @@
 ## 26.2-0.1.2 (9/23/26)
 
+### Configuration Changes
 - Created custom crafting recipe for Minecraft Spawners
+- Configured spawners and vines can be mined with Silk Touch
 - Configured a drop chance for spawn eggs from hostile mobs
 - Rebalanced fluid tank capacities in Energized Power mod
-- Restructed the files in all included datapacks
 
-Added Mod
+### Added Mod
 - Held Item Tooltips v26.2.0
 - Silkier Touch v1.3
 
-Removed Mod
+### Removed Mod
 - Spawner Harvest v1.0.0
 
-Updated Mods
+### Updated Mods
 - Architectury v21.1.10
 - Collective v8.40
 - Energized Power v3.0.1+26.2.x-fabric
 - SuperMartijn642's Core Lib v1.1.24+b
 - YetAnotherConfigLib v3.9.7+26.2-fabric
+
+### Other Changes
+- Restructed the files in all included datapacks
 
 ## 26.2-0.1.1 (9/20/26)
 
