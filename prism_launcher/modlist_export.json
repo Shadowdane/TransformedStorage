@@ -246,10 +246,10 @@
         "version": "1.11.2+mc26.2"
     },
     {
-        "filename": "IronChests-2.0.7.jar",
+        "filename": "IronChests-2.0.8.jar",
         "name": "Iron Chests",
         "url": "https://modrinth.com/mod/7mHyGgvW",
-        "version": "2.0.7"
+        "version": "2.0.8"
     },
     {
         "filename": "jeiworldgen-fabric-26.2-1.4.5.jar",
@@ -528,10 +528,10 @@
         "version": "26.2.0"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.8.jar",
+        "filename": "StorageDrawers-fabric-26.2.0.1.jar",
         "name": "Storage Drawers",
-        "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.8"
+        "url": "https://modrinth.com/mod/guitPqEi",
+        "version": "26.2.0.1"
     },
     {
         "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
