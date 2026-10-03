@@ -1,3 +1,45 @@
+## 26.2-0.2.0 (10/3/26)
+
+**Important:** It is recommended to back up your world before upgrading to the 26.2-0.2.0 modpack version! This version switches from Storage Drawers (Unofficial Port) to the official Storage Drawers mod by Texelsaur. Extensive compatibility and migration testing was performed to ensure the transition to the official mod would go smoothly. No bugs or item/drawer loss were encountered during testing. It is still recommended to make a world backup in case you need to roll back to the previous modpack version.
+
+### Changed Mods
+- Storage Drawers v26.2.0.1 --- Replaces Storage Drawers (Unofficial Port) v19.1.8
+
+### Major Mod Fixes
+- The result picker for Polymorph+ now shows up in the Tom's Simple Storage crafting terminal.
+- Fixed crash when bone-mealing fridge from Cooking for Blockheads.
+- Fixed crash on Trash Cans when saving deleted items.
+
+### Configuration Changes for Energized Power
+- Added seed drops from Melons and Pumpkins in the Plant Growth Chambers
+- Improved ore processing yields from the Pulverizer.
+
+### Other Configuration Changes
+- Allowed retrieval of deleted items from Trash Cans.
+- Increased the maximum chunk selection range for Advanced and Ultimate Chunk Loaders.
+
+### Updated Mods
+- AdvancedCoreInfo v1.3.0
+- AdvancedLootInfo v2.3.0
+- Architectury v21.1.11
+- Balm v26.2.0.9
+- Better Advancements v0.6.0.77
+- Collective v8.41
+- Cooking for Blockheads v26.2.0.5
+- Durability Tooltip v1.2.0+a
+- GEODE v1.0.3-RP1.114.0-mc1.18-26.3
+- Iron Chests v2.0.8
+- Mod Menu v20.0.3
+- ModernFix v5.27.19-build.2
+- MonkeyLib538 v5.3.1+fabric+26.2
+- Polymorph+ v1.3.4+26.2.0
+- Respawning Shulkers v4.3
+- Shogi v26.2.0.8
+- Silkier Touch v1.4
+- SuperMartijn642's Config Library v1.1.8+a
+- Trash Cans v1.1.1+a
+- Traveler's Backpack v11.3.3
+
 ## 26.2-0.1.2 (9/23/26)
 
 ### Configuration Changes
