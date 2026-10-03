@@ -1,0 +1,64 @@
+{
+  "type": "energizedpower:pulverizer",
+  "ingredient": "#c:ores/copper",
+  "result": {
+    "percentages": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.75,
+	  0.75,
+	  0.50,
+	  0.50,
+	  0.25,
+	  0.25,
+	  0.15,
+	  0.10,
+	  0.05,
+	  0.025,
+	  0.02,
+	  0.01,
+	  0.005,
+	  0.0025,
+	  0.001
+    ],
+    "percentagesAdvanced": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+	  0.85,
+	  0.75,
+	  0.75,
+	  0.75,
+	  0.50,
+	  0.50,
+	  0.50,
+	  0.25,
+	  0.25,
+	  0.25,
+	  0.15,
+	  0.10,
+	  0.05,
+	  0.025
+    ],
+    "result": {
+      "id": "energizedpower:copper_dust"
+    }
+  },
+  "secondaryResult": {
+    "percentages": [
+      0.15
+    ],
+    "percentagesAdvanced": [
+      0.30
+    ],
+    "result": {
+      "id": "energizedpower:gold_dust"
+    }
+  }
+}

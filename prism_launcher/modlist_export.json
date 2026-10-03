@@ -1,15 +1,15 @@
 [
     {
-        "filename": "AdvancedCoreInfo-fabric-26.2-1.2.0.jar",
+        "filename": "AdvancedCoreInfo-fabric-26.2-1.3.0.jar",
         "name": "AdvancedCoreInfo",
         "url": "https://modrinth.com/mod/BaR4ijFC",
-        "version": "1.2.0"
+        "version": "1.3.0"
     },
     {
-        "filename": "AdvancedLootInfo-fabric-26.2-2.2.0.jar",
+        "filename": "AdvancedLootInfo-fabric-26.2-2.3.0.jar",
         "name": "AdvancedLootInfo",
         "url": "https://modrinth.com/mod/PEPVViac",
-        "version": "2.2.0"
+        "version": "2.3.0"
     },
     {
         "filename": "appleskin-fabric-mc26.2-3.0.10.jar",
@@ -18,22 +18,22 @@
         "version": "3.0.10+mc26.2"
     },
     {
-        "filename": "architectury-fabric-21.1.10.jar",
+        "filename": "architectury-fabric-21.1.11.jar",
         "name": "Architectury",
         "url": "https://modrinth.com/mod/lhGA9TYQ",
-        "version": "21.1.10"
+        "version": "21.1.11"
     },
     {
-        "filename": "balm-fabric-26.2-26.2.0.8.jar",
+        "filename": "balm-fabric-26.2-26.2.0.9.jar",
         "name": "Balm",
         "url": "https://modrinth.com/mod/MBAkmtvl",
-        "version": "26.2.0.8"
+        "version": "26.2.0.9"
     },
     {
-        "filename": "BetterAdvancements-Fabric-26.2-0.6.0.72.jar",
+        "filename": "BetterAdvancements-Fabric-26.2-0.6.0.77.jar",
         "name": "Better Advancements",
         "url": "https://modrinth.com/mod/Q2OqKxDG",
-        "version": "0.6.0.72"
+        "version": "0.6.0.77"
     },
     {
         "filename": "better-compatability-checker-fabric-26.2.0.1.jar",
@@ -78,10 +78,10 @@
         "version": "26.2.1"
     },
     {
-        "filename": "collective-26.2.0-8.40.jar",
+        "filename": "collective-26.2.0-8.41.jar",
         "name": "Collective",
         "url": "https://modrinth.com/mod/e0M1UDsY",
-        "version": "8.40"
+        "version": "8.41"
     },
     {
         "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar",
@@ -102,10 +102,10 @@
         "version": "26.2.4"
     },
     {
-        "filename": "cookingforblockheads-fabric-26.2-26.2.0.4.jar",
+        "filename": "cookingforblockheads-fabric-26.2-26.2.0.5.jar",
         "name": "Cooking for Blockheads",
         "url": "https://modrinth.com/mod/vJnhuDde",
-        "version": "26.2.0.4"
+        "version": "26.2.0.5"
     },
     {
         "filename": "craftingtweaks-fabric-26.2-26.2.0.3.jar",
@@ -138,10 +138,10 @@
         "version": "26.2+1.0.0"
     },
     {
-        "filename": "durabilitytooltip-1.2.0-fabric-mc26.2.jar",
+        "filename": "durabilitytooltip-1.2.0a-fabric-mc26.2.jar",
         "name": "Durability Tooltip",
         "url": "https://modrinth.com/mod/smUP7V3r",
-        "version": "1.2.0"
+        "version": "1.2.0+a"
     },
     {
         "filename": "elevatorid-fabric-26.2-1.16.4.jar",
@@ -204,7 +204,7 @@
         "version": "26.2.1"
     },
     {
-        "filename": "GEODE-v1.0.2-RP1.113.0-mc1.18-26.2.jar",
+        "filename": "GEODE-v1.0.3-RP1.114.0-mc1.18-26.3.jar",
         "name": "GEODE Universal Compatibility Loader",
         "url": "https://modrinth.com/mod/U8Iw4AfP",
         "version": "2.0.0"
@@ -246,10 +246,10 @@
         "version": "1.11.2+mc26.2"
     },
     {
-        "filename": "IronChests-2.0.7.jar",
+        "filename": "IronChests-2.0.8.jar",
         "name": "Iron Chests",
         "url": "https://modrinth.com/mod/7mHyGgvW",
-        "version": "2.0.7"
+        "version": "2.0.8"
     },
     {
         "filename": "jeiworldgen-fabric-26.2-1.4.5.jar",
@@ -390,22 +390,22 @@
         "version": "0.40.7"
     },
     {
-        "filename": "modmenu-20.0.2.jar",
+        "filename": "modmenu-20.0.3.jar",
         "name": "Mod Menu",
         "url": "https://modrinth.com/mod/mOgUt4GM",
-        "version": "20.0.2"
+        "version": "20.0.3"
     },
     {
-        "filename": "modernfix-5.27.19-build.1.jar",
+        "filename": "modernfix-5.27.19-build.2.jar",
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/TjSm1wrD",
-        "version": "5.27.19-build.1"
+        "version": "5.27.19-build.2"
     },
     {
-        "filename": "monkeylib538-fabric-26.2-5.3.0+fabric+26.2.jar",
+        "filename": "monkeylib538-fabric-26.2-5.3.1+fabric+26.2.jar",
         "name": "MonkeyLib538",
         "url": "https://modrinth.com/mod/gYap5A8T",
-        "version": "5.3.0+fabric+26.2"
+        "version": "5.3.1+fabric+26.2"
     },
     {
         "filename": "more-chest-variants-1.5.14+26.1.1-fabric.jar",
@@ -444,10 +444,10 @@
         "version": "1.3.1"
     },
     {
-        "filename": "polymorph_plus-fabric-1.3.1+26.2.0.jar",
+        "filename": "polymorph_plus-fabric-1.3.4+26.2.0.jar",
         "name": "Polymorph+",
         "url": "https://modrinth.com/mod/3uT4J18I",
-        "version": "1.3.1+26.2.0"
+        "version": "1.3.4+26.2.0"
     },
     {
         "filename": "PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar",
@@ -456,10 +456,10 @@
         "version": "26.2.4"
     },
     {
-        "filename": "respawningshulkers-26.2.0-4.2.jar",
+        "filename": "respawningshulkers-26.2.0-4.3.jar",
         "name": "Respawning Shulkers",
         "url": "https://modrinth.com/mod/gHCmhGUV",
-        "version": "4.2"
+        "version": "4.3"
     },
     {
         "filename": "RoughlyEnoughItems-26.2.820.jar",
@@ -486,10 +486,10 @@
         "version": "3.0.4"
     },
     {
-        "filename": "shogi-fabric-26.2-26.2.0.5.jar",
+        "filename": "shogi-fabric-26.2-26.2.0.8.jar",
         "name": "Shogi",
         "url": "https://modrinth.com/mod/bi4iCmsw",
-        "version": "26.2.0.5"
+        "version": "26.2.0.8"
     },
     {
         "filename": "shulkerboxtooltip-fabric-5.4.1+26.2.jar",
@@ -498,10 +498,10 @@
         "version": "5.4.1+26.2"
     },
     {
-        "filename": "silkiertouch-26.2.0-1.3.jar",
+        "filename": "silkiertouch-26.2.0-1.4.jar",
         "name": "Silkier Touch",
         "url": "https://modrinth.com/mod/dUaXeoyM",
-        "version": "1.3"
+        "version": "1.4"
     },
     {
         "filename": "voicechat-fabric-2.6.24+26.2.jar",
@@ -528,16 +528,16 @@
         "version": "26.2.0"
     },
     {
-        "filename": "StorageDrawers-fabric-26.2-19.1.8.jar",
+        "filename": "StorageDrawers-fabric-26.2.0.1.jar",
         "name": "Storage Drawers",
-        "url": "https://modrinth.com/mod/3bqn07Ul",
-        "version": "19.1.8"
+        "url": "https://modrinth.com/mod/guitPqEi",
+        "version": "26.2.0.1"
     },
     {
-        "filename": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
+        "filename": "supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Config Library",
         "url": "https://modrinth.com/mod/LN9BxssP",
-        "version": "1.1.8"
+        "version": "1.1.8+a"
     },
     {
         "filename": "supermartijn642corelib-1.1.24b-fabric-mc26.2.jar",
@@ -558,16 +558,16 @@
         "version": "1.0.22+26.2"
     },
     {
-        "filename": "trashcans-1.1.0-fabric-mc26.2.jar",
+        "filename": "trashcans-1.1.1a-fabric-mc26.2.jar",
         "name": "Trash Cans",
         "url": "https://modrinth.com/mod/4QrnfueM",
-        "version": "1.1.0"
+        "version": "1.1.1+a"
     },
     {
-        "filename": "travelersbackpack-fabric-26.2-11.3.2.jar",
+        "filename": "travelersbackpack-fabric-26.2-11.3.3.jar",
         "name": "Traveler's Backpack",
         "url": "https://modrinth.com/mod/rlloIFEV",
-        "version": "11.3.2"
+        "version": "11.3.3"
     },
     {
         "filename": "veinminer-fabric-2.12.1.jar",

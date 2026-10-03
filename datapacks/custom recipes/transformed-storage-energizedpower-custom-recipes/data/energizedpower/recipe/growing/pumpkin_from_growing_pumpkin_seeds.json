@@ -1,0 +1,27 @@
+{
+   "type": "energizedpower:plant_growth_chamber",
+   "fluid": "minecraft:water",
+   "fluidConsumption": 0.0625,
+   "ingredient": "minecraft:pumpkin_seeds",
+   "results": [
+      {
+         "percentages": [
+            1.0
+         ],
+         "result": {
+            "id": "minecraft:pumpkin"
+         }
+      },
+      {
+         "percentages": [
+            1.0,
+            0.10
+         ],
+         "result": {
+            "id": "minecraft:pumpkin_seeds"
+         }
+      }
+   ],
+   "soilType": "#energizedpower:crops",
+   "ticks": 4000
+}

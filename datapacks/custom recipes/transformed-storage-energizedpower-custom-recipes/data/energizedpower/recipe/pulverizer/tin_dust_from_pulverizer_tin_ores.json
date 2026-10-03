@@ -1,0 +1,22 @@
+{
+  "type": "energizedpower:pulverizer",
+  "ingredient": "#c:ores/tin",
+  "result": {
+    "percentages": [
+      1.0,
+      1.0,
+      0.50,
+	  0.25
+    ],
+    "percentagesAdvanced": [
+      1.0,
+      1.0,
+      0.75,
+      0.50,
+	  0.25
+    ],
+    "result": {
+      "id": "energizedpower:tin_dust"
+    }
+  }
+}

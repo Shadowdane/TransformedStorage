@@ -1,0 +1,30 @@
+{
+  "type": "energizedpower:pulverizer",
+  "ingredient": "#c:ores/redstone",
+  "result": {
+    "percentages": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.75,
+      0.50,
+      0.25,
+      0.15
+    ],
+    "percentagesAdvanced": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.75,
+      0.50,
+      0.25,
+	  0.15
+    ],
+    "result": {
+      "id": "minecraft:redstone"
+    }
+  }
+}

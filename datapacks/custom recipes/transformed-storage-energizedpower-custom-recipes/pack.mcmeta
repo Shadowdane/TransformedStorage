@@ -1,0 +1,13 @@
+{
+  "pack": {
+	"description": "Transformed Storage - Energized Power - Customized Machine Output Recipes",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  }
+}
