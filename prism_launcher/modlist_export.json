@@ -78,10 +78,10 @@
         "version": "26.2.1"
     },
     {
-        "filename": "collective-26.2.0-8.40.jar",
+        "filename": "collective-26.2.0-8.41.jar",
         "name": "Collective",
         "url": "https://modrinth.com/mod/e0M1UDsY",
-        "version": "8.40"
+        "version": "8.41"
     },
     {
         "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar",
@@ -102,10 +102,10 @@
         "version": "26.2.4"
     },
     {
-        "filename": "cookingforblockheads-fabric-26.2-26.2.0.4.jar",
+        "filename": "cookingforblockheads-fabric-26.2-26.2.0.5.jar",
         "name": "Cooking for Blockheads",
         "url": "https://modrinth.com/mod/vJnhuDde",
-        "version": "26.2.0.4"
+        "version": "26.2.0.5"
     },
     {
         "filename": "craftingtweaks-fabric-26.2-26.2.0.3.jar",
@@ -444,10 +444,10 @@
         "version": "1.3.1"
     },
     {
-        "filename": "polymorph_plus-fabric-1.3.3+26.2.0.jar",
+        "filename": "polymorph_plus-fabric-1.3.4+26.2.0.jar",
         "name": "Polymorph+",
         "url": "https://modrinth.com/mod/3uT4J18I",
-        "version": "1.3.3+26.2.0"
+        "version": "1.3.4+26.2.0"
     },
     {
         "filename": "PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar",
@@ -456,10 +456,10 @@
         "version": "26.2.4"
     },
     {
-        "filename": "respawningshulkers-26.2.0-4.2.jar",
+        "filename": "respawningshulkers-26.2.0-4.3.jar",
         "name": "Respawning Shulkers",
         "url": "https://modrinth.com/mod/gHCmhGUV",
-        "version": "4.2"
+        "version": "4.3"
     },
     {
         "filename": "RoughlyEnoughItems-26.2.820.jar",
@@ -498,10 +498,10 @@
         "version": "5.4.1+26.2"
     },
     {
-        "filename": "silkiertouch-26.2.0-1.3.jar",
+        "filename": "silkiertouch-26.2.0-1.4.jar",
         "name": "Silkier Touch",
         "url": "https://modrinth.com/mod/dUaXeoyM",
-        "version": "1.3"
+        "version": "1.4"
     },
     {
         "filename": "voicechat-fabric-2.6.24+26.2.jar",
