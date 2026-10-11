@@ -1,15 +1,15 @@
 ## 26.2-0.2.0 (10/11/26)
 
-Configuration Changes
+### Configuration Changes
 - Enabled the show cooldown option while crouching for Animals Pens mod.
 - Created custom crafting recipes for most of the items in the Animal Pens mod.
 - Changed Vein Mine to allowed on all blocks
 - Changed Vein Mine to 18 blocks maximum chain
 
-Added Mods
+### Added Mods
 - Animal Pen v2.5.1
 
-Updated Mods
+### Updated Mods
 - AdvancedCoreInfo v1.4.0
 - Architectury v21.1.12
 - Collective v8.45
