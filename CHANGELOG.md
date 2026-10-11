@@ -1,3 +1,34 @@
+## 26.2-0.2.0 (10/11/26)
+
+Configuration Changes
+- Enabled the show cooldown option while crouching for Animals Pens mod.
+- Created custom crafting recipes for most of the items in the Animal Pens mod.
+- Changed Vein Mine to allowed on all blocks
+- Changed Vein Mine to 18 blocks maximum chain
+
+Added Mods
+- Animal Pen v2.5.1
+
+Updated Mods
+- AdvancedCoreInfo v1.4.0
+- Architectury v21.1.12
+- Collective v8.45
+- Concurrent Chunk Management Engine (C2ME) v0.4.2-alpha.0.56+26.2
+- EntityCulling v1.11.3
+- Fabric Language Kotlin v1.14.2+kotlin.2.4.21
+- Inventory Profiles Next v2.3.8
+- Iris v1.11.4+mc26.2
+- Loot Table Modifier v2.4.0+fabric+26.1
+- Polymorph+ v1.3.5+26.2.0
+- Puzzles Lib v26.2.5
+- Sodium v0.9.2+mc26.2
+- Sodium Extra v0.9.4+mc26.2
+- SuperMartijn642's Core Lib v1.1.25
+- Xaero's Minimap v26.6.0
+- Xaero's World Map v1.47.0
+- libIPN v6.9.0
+
+
 ## 26.2-0.2.0 (10/3/26)
 
 **Important:** It is recommended to back up your world before upgrading to the 26.2-0.2.0 modpack version! This version switches from Storage Drawers (Unofficial Port) to the official Storage Drawers mod by Texelsaur. Extensive compatibility and migration testing was performed to ensure the transition to the official mod would go smoothly. No bugs or item/drawer loss were encountered during testing. It is still recommended to make a world backup in case you need to roll back to the previous modpack version.
