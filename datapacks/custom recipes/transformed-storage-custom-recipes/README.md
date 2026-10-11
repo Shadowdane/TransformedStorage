@@ -10,3 +10,15 @@ Storage Drawers
 
 Traveler's Backpack
 - Blank Upgrade
+
+Animal Pens
+- Animal Pen (All Wood Types)
+- Aquarium
+- Iron Aviary
+- Gold Aviary
+- Copper Aviary
+- Exposed Copper Aviary
+- Weathered Copper Aviary
+- Oxidized Copper Aviary
+- Animal Cage
+- Aquatic Jar

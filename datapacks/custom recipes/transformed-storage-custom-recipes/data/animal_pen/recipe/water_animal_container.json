@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "minecraft:glass_pane",
+    "C": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "BCB",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "id": "animal_pen:water_animal_container"
+  }
+}

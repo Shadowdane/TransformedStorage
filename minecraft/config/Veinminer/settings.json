@@ -2,7 +2,7 @@
     "cooldown": 20,
     "mustSneak": false,
     "delay": 0,
-    "maxChain": 32,
+    "maxChain": 18,
     "needCorrectTool": true,
     "searchRadius": 1,
     "permissionRestricted": false,
@@ -17,7 +17,7 @@
         "allow": true,
         "require": false,
         "translucentBlockHighlight": true,
-        "allBlocks": false,
+        "allBlocks": true,
         "overrides": {
             "cooldown": null,
             "mustSneak": null,

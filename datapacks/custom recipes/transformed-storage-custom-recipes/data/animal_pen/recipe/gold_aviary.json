@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "N": "minecraft:gold_nugget",
+    "S": "minecraft:smooth_stone_slab",
+    "P": "minecraft:polished_blackstone_slab"
+  },
+  "pattern": [
+    "NGN",
+    "G G",
+    "SPS"
+  ],
+  "result": {
+    "id": "animal_pen:gold_aviary"
+  }
+}
