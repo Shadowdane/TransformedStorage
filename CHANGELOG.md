@@ -1,4 +1,12 @@
-## 26.2-0.2.0 (10/11/26)
+## 26.2-0.3.1 (10/11/26)
+
+### Configuration Changes
+- Added Veinmine block groups to allow vein mining on most regular world blocks.
+- Restored missing datapack for customized Energized Power machine output.
+- Increased seed drop rate for Melons & Pumpkins from Energized Power Plant Growth Chamber.
+- Added item grouping for Animal Pen items in REI
+
+## 26.2-0.3.0 (10/11/26)
 
 ### Configuration Changes
 - Enabled the show cooldown option while crouching for Animals Pens mod.
