@@ -17,7 +17,221 @@
             "permissionRestricted": null,
             "decreaseDurability": null,
             "hungerPerBlock": null,
-            "miningSpeedModifier": null
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Stones",
+        "blocks": [
+            "#minecraft:base_stone_overworld",
+            "minecraft:cobblestone",
+            "minecraft:cobbled_deepslate"
+        ],
+        "tools": [
+            "#minecraft:pickaxes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Terracotta",
+        "blocks": [
+            "#minecraft:terracotta"
+        ],
+        "tools": [
+            "#minecraft:pickaxes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "NetherStones",
+        "blocks": [
+            "#minecraft:base_stone_nether",
+            "minecraft:smooth_basalt"
+        ],
+        "tools": [
+            "#minecraft:pickaxes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Logs",
+        "blocks": [
+            "#minecraft:logs",
+            "minecraft:mushroom_stem",
+            "minecraft:brown_mushroom_block",
+            "minecraft:red_mushroom_block"
+        ],
+        "tools": [
+            "#minecraft:axes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Leaves",
+        "blocks": [
+            "#minecraft:leaves"
+        ],
+        "tools": [
+            "#minecraft:hoes",
+            "minecraft:shears"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Earthy",
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:grass_block",
+            "minecraft:coarse_dirt",
+            "minecraft:rooted_dirt",
+            "minecraft:gravel",
+            "minecraft:sand",
+            "minecraft:red_sand",
+            "minecraft:clay",
+            "minecraft:mud"
+        ],
+        "tools": [
+            "#minecraft:shovels"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Grassy",
+        "blocks": [
+            "#minecraft:edible_for_sheep",
+            "minecraft:tall_grass",
+            "minecraft:large_fern",
+            "minecraft:bush",
+            "minecraft:dead_bush"
+        ],
+        "tools": [],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 18,
+            "needCorrectTool": null,
+            "searchRadius": 3,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "Crops",
+        "blocks": [
+            "#minecraft:crops"
+        ],
+        "tools": [],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
+        }
+    },
+    {
+        "name": "ConcretePowder",
+        "blocks": [
+            "#minecraft:concrete_powders"
+        ],
+        "tools": [
+            "#minecraft:shovels"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": null,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": null,
+            "miningSpeedModifier": null,
+            "separateGroupMining": null
         }
     }
 ]

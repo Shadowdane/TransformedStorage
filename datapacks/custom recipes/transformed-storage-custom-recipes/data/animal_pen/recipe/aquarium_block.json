@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "F": "minecraft:water_bucket",
+    "G": "minecraft:glass",
+    "S": "minecraft:smooth_stone",
+    "P": "minecraft:polished_blackstone"
+  },
+  "pattern": [
+    "GIG",
+    "GFG",
+    "SPS"
+  ],
+  "result": {
+    "id": "animal_pen:aquarium_block"
+  }
+}

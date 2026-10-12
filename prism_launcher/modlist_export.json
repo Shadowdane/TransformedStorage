@@ -1,15 +1,21 @@
 [
     {
-        "filename": "AdvancedCoreInfo-fabric-26.2-1.3.0.jar",
+        "filename": "AdvancedCoreInfo-fabric-26.2-1.4.0.jar",
         "name": "AdvancedCoreInfo",
         "url": "https://modrinth.com/mod/BaR4ijFC",
-        "version": "1.3.0"
+        "version": "1.4.0"
     },
     {
-        "filename": "AdvancedLootInfo-fabric-26.2-2.3.0.jar",
+        "filename": "AdvancedLootInfo-fabric-26.2-2.4.0.jar",
         "name": "AdvancedLootInfo",
         "url": "https://modrinth.com/mod/PEPVViac",
-        "version": "2.3.0"
+        "version": "2.4.0"
+    },
+    {
+        "filename": "animal_pen-fabric-26.2-2.5.1.jar",
+        "name": "Animal Pen",
+        "url": "https://modrinth.com/mod/K5CAV4wi",
+        "version": "2.5.1"
     },
     {
         "filename": "appleskin-fabric-mc26.2-3.0.10.jar",
@@ -18,10 +24,10 @@
         "version": "3.0.10+mc26.2"
     },
     {
-        "filename": "architectury-fabric-21.1.11.jar",
+        "filename": "architectury-fabric-21.1.12.jar",
         "name": "Architectury",
         "url": "https://modrinth.com/mod/lhGA9TYQ",
-        "version": "21.1.11"
+        "version": "21.1.12"
     },
     {
         "filename": "balm-fabric-26.2-26.2.0.9.jar",
@@ -78,16 +84,16 @@
         "version": "26.2.1"
     },
     {
-        "filename": "collective-26.2.0-8.41.jar",
+        "filename": "collective-26.2.0-8.45.jar",
         "name": "Collective",
         "url": "https://modrinth.com/mod/e0M1UDsY",
-        "version": "8.41"
+        "version": "8.45"
     },
     {
-        "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar",
+        "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.56.jar",
         "name": "Concurrent Chunk Management Engine",
         "url": "https://modrinth.com/mod/VSNURh3q",
-        "version": "0.4.2-alpha.0.52+26.2"
+        "version": "0.4.2-alpha.0.56+26.2"
     },
     {
         "filename": "continuity-3.0.1+26.2.jar",
@@ -174,10 +180,10 @@
         "version": "3.0.1+26.2.x-fabric"
     },
     {
-        "filename": "entityculling-fabric-1.10.5-mc26.2.jar",
+        "filename": "entityculling-fabric-1.11.3-mc26.2.jar",
         "name": "EntityCulling",
         "url": "https://modrinth.com/mod/NNAgCjsB",
-        "version": "1.10.5"
+        "version": "1.11.3"
     },
     {
         "filename": "fabric-api-0.161.0+26.2.jar",
@@ -186,10 +192,10 @@
         "version": "0.161.0+26.2"
     },
     {
-        "filename": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+        "filename": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
         "name": "Fabric Language Kotlin",
         "url": "https://modrinth.com/mod/Ha28R6CL",
-        "version": "1.14.1+kotlin.2.4.20"
+        "version": "1.14.2+kotlin.2.4.21"
     },
     {
         "filename": "ferritecore-9.0.0-fabric.jar",
@@ -234,16 +240,16 @@
         "version": "3.4.34"
     },
     {
-        "filename": "InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+        "filename": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
         "name": "Inventory Profiles Next",
         "url": "https://modrinth.com/mod/O7RBXm3n",
-        "version": "2.3.7"
+        "version": "2.3.8"
     },
     {
-        "filename": "iris-fabric-1.11.2+mc26.2.jar",
+        "filename": "iris-fabric-1.11.4+mc26.2.jar",
         "name": "Iris",
         "url": "https://modrinth.com/mod/YL57xq9U",
-        "version": "1.11.2+mc26.2"
+        "version": "1.11.4+mc26.2"
     },
     {
         "filename": "IronChests-2.0.8.jar",
@@ -300,10 +306,10 @@
         "version": "0.25.3+mc26.2"
     },
     {
-        "filename": "loot-table-modifier-fabric-26.1-2.3.1+fabric+26.1.jar",
+        "filename": "loot-table-modifier-fabric-26.1-2.4.0+fabric+26.1.jar",
         "name": "Loot Table Modifier",
         "url": "https://modrinth.com/mod/emvwKT0u",
-        "version": "2.3.1+fabric+26.1"
+        "version": "2.4.0+fabric+26.1"
     },
     {
         "filename": "malilib-fabric-26.2-0.29.6.jar",
@@ -444,16 +450,16 @@
         "version": "1.3.1"
     },
     {
-        "filename": "polymorph_plus-fabric-1.3.4+26.2.0.jar",
+        "filename": "polymorph_plus-fabric-1.3.5+26.2.0.jar",
         "name": "Polymorph+",
         "url": "https://modrinth.com/mod/3uT4J18I",
-        "version": "1.3.4+26.2.0"
+        "version": "1.3.5+26.2.0"
     },
     {
-        "filename": "PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar",
+        "filename": "puzzleslib-v26.2.5-mc26.2.x+fabric.jar",
         "name": "Puzzles Lib",
         "url": "https://modrinth.com/mod/QAGBst4M",
-        "version": "26.2.4"
+        "version": "26.2.5"
     },
     {
         "filename": "respawningshulkers-26.2.0-4.3.jar",
@@ -510,16 +516,16 @@
         "version": "2.6.24+26.2"
     },
     {
-        "filename": "sodium-fabric-0.9.1+mc26.2.jar",
+        "filename": "sodium-fabric-0.9.2+mc26.2.jar",
         "name": "Sodium",
         "url": "https://modrinth.com/mod/AANobbMI",
-        "version": "0.9.1+mc26.2"
+        "version": "0.9.2+mc26.2"
     },
     {
-        "filename": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+        "filename": "sodium-extra-fabric-0.9.4+mc26.2.jar",
         "name": "Sodium Extra",
         "url": "https://modrinth.com/mod/PtjYWJkn",
-        "version": "0.9.3+mc26.2"
+        "version": "0.9.4+mc26.2"
     },
     {
         "filename": "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar",
@@ -540,10 +546,10 @@
         "version": "1.1.8+a"
     },
     {
-        "filename": "supermartijn642corelib-1.1.24b-fabric-mc26.2.jar",
+        "filename": "supermartijn642corelib-1.1.25-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Core Lib",
         "url": "https://modrinth.com/mod/rOUBggPv",
-        "version": "1.1.24+b"
+        "version": "1.1.25"
     },
     {
         "filename": "toms_storage_fabric-26.2-2.11.3.jar",
@@ -588,16 +594,16 @@
         "version": "26.2.0.12"
     },
     {
-        "filename": "xaerominimap-fabric-26.2-26.5.1.jar",
+        "filename": "xaerominimap-fabric-26.2-26.6.0.jar",
         "name": "Xaero's Minimap",
         "url": "https://modrinth.com/mod/1bokaNcj",
-        "version": "26.5.1"
+        "version": "26.6.0"
     },
     {
-        "filename": "xaeroworldmap-fabric-26.2-1.46.1.jar",
+        "filename": "xaeroworldmap-fabric-26.2-1.47.0.jar",
         "name": "Xaero's World Map",
         "url": "https://modrinth.com/mod/NcUtCpym",
-        "version": "1.46.1"
+        "version": "1.47.0"
     },
     {
         "filename": "XaeroHeadTracker-1.0.0-fabric-26.2.jar",
@@ -612,10 +618,10 @@
         "version": "3.9.7+26.2-fabric"
     },
     {
-        "filename": "libIPN-fabric-26.2-6.8.3.jar",
+        "filename": "libIPN-fabric-26.2-6.9.0.jar",
         "name": "libIPN",
         "url": "https://modrinth.com/mod/onSQdWhM",
-        "version": "6.8.3"
+        "version": "6.9.0"
     },
     {
         "filename": "owo-lib-0.13.1+26.2.jar",

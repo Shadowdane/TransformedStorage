@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": "minecraft:iron_chain",
+    "S": "minecraft:smooth_stone_slab",
+    "P": "minecraft:polished_blackstone_slab"
+  },
+  "pattern": [
+    "GGG",
+    "G G",
+    "SPS"
+  ],
+  "result": {
+    "id": "animal_pen:aviary"
+  }
+}

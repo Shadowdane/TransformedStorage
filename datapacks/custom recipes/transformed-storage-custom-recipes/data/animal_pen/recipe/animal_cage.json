@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "B": "#minecraft:bars",
+    "G": "minecraft:glass"
+  },
+  "pattern": [
+    "CCC",
+    "BGB",
+    "CCC"
+  ],
+  "result": {
+    "id": "animal_pen:animal_cage"
+  }
+}
