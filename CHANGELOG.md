@@ -1,3 +1,25 @@
+## 26.2-0.4.0 (10/16/26)
+
+This update changed to the Xaero's Maps: Multiplayer+ mod which replaces functionality of the XaeroHeadTracker and Server Waypoint mods.  It also adds multiplayer Xaero Map support for shared mapping for all players.  This update also adds the Lightspeed and Optimized Block Entities mods for faster startup and better performance around areas with a lot of block entities in game.  Also updated some mods that had bugfixes.
+
+### Added Mods
+- Xaero's Maps: Multiplayer+ v1.2.2+26.2-fabric
+- Lightspeed v26.2-2.0.5
+- Optimized Block Entities v1.1.53
+
+### Removed Mods
+- XaeroHeadTracker v1.0.0
+- Server Waypoint v3.0.4
+
+### Updated Mods
+- Collective v8.53
+- Concurrent Chunk Management Engine (C2ME) v0.4.2-alpha.0.60+26.2
+- GEODE v1.0.3-RP1.115.0
+- Polymorph+ v1.4.0+26.2.0
+- Trade Cycling v1.0.23+26.2
+- Tom's Simple Storage Mod v2.11.4
+
+
 ## 26.2-0.3.1 (10/11/26)
 
 ### Configuration Changes
@@ -5,6 +27,7 @@
 - Restored missing datapack for customized Energized Power machine output.
 - Increased seed drop rate for Melons & Pumpkins from Energized Power Plant Growth Chamber.
 - Added item grouping for Animal Pen items in REI
+
 
 ## 26.2-0.3.0 (10/11/26)
 
@@ -79,6 +102,7 @@
 - Trash Cans v1.1.1+a
 - Traveler's Backpack v11.3.3
 
+
 ## 26.2-0.1.2 (9/23/26)
 
 ### Configuration Changes
@@ -104,6 +128,7 @@
 ### Other Changes
 - Restructed the files in all included datapacks
 
+
 ## 26.2-0.1.1 (9/20/26)
 
 ### Configuration Changes
@@ -117,6 +142,7 @@
 - Fabric API v0.161.0+26.2
 - Simple Voice Chat v2.6.24+26.2
 - Trade Cycling v1.0.22+26.2
+
 
 ## 26.2-0.1.0 (9/18/26)
 
@@ -180,6 +206,7 @@
 - Created custom crafting recipe for Storage Drawers - Void Upgrade
 - Keybind conflict with Simple Voice Chat mod, reassigned the default keybind for hide voice icons.
 
+
 ## 26.2-0.1-beta2 (9/5/26)
 
 ### Added Mods
@@ -222,6 +249,7 @@
 - Allow everyone to create Global Waystones
 - Changed default shader settings to improve clarity and performance
 
+
 ## 26.2-0.1-beta1 (8/28/26)
 
 ###Fixes/Changes
@@ -244,6 +272,7 @@
 - Storage Drawers v19.1.7
 - SuperMartijn642's Core Lib v1.1.24+a
 
+
 ## 26.2-0.1-alpha5 (8/23/26)
 
 ### Configuration Changes
@@ -252,6 +281,7 @@
 - Fixed a hotkey conflict for IPN
 - Changed the notification threasholds for unenchanted tools break warnings for IPN
 - Hide IPN buttons on Waystones and Cooking for Blockheads screens
+
 
 ## 26.2-0.1-alpha4 (8/23/26)
 
@@ -279,6 +309,7 @@
 - Changed hotkeys for IPN and enabled Auto Refill settings.
 - Turned off update notifications for Veinminer (hopefully the hidden config flag works!)
 
+
 ## 26.2-0.1-alpha3 (8/17/26)
 
 ### Added Mods
@@ -305,6 +336,7 @@
 - Moved the Nature's Compass overlay to the right side of the screen and down six lines.
 - Disabled update notifications for Xaero's mods.
 - Configured Inventory Profiles Next to ignore Traveler's Backpack inventory screens.
+
 
 ## 26.2-0.1-alpha2 (8/11/26)
 
@@ -335,6 +367,7 @@
 - Increased Leaves decay rate
 - Adjusted default shader settings
 - Removed standalone Connected Glass resource pack
+
 
 ## 26.2-0.1-alpha1 (8/7/26)
 
