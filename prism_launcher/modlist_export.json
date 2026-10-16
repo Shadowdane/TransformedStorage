@@ -84,10 +84,10 @@
         "version": "26.2.1"
     },
     {
-        "filename": "collective-26.2.0-8.51.jar",
+        "filename": "collective-26.2.0-8.53.jar",
         "name": "Collective",
         "url": "https://modrinth.com/mod/e0M1UDsY",
-        "version": "8.51"
+        "version": "8.53"
     },
     {
         "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
@@ -546,10 +546,10 @@
         "version": "1.1.25"
     },
     {
-        "filename": "toms_storage_fabric-26.2-2.11.3.jar",
+        "filename": "toms_storage_fabric-26.2-2.11.4.jar",
         "name": "Tom's Simple Storage Mod",
         "url": "https://modrinth.com/mod/XZNI4Cpy",
-        "version": "2.11.3"
+        "version": "2.11.4"
     },
     {
         "filename": "trade-cycling-fabric-1.0.23+26.2.jar",
@@ -588,10 +588,10 @@
         "version": "26.2.0.12"
     },
     {
-        "filename": "xmmp-1.2.0+26.2-fabric.jar",
+        "filename": "xmmp-1.2.2+26.2-fabric.jar",
         "name": "Xaero's Maps: Multiplayer+",
         "url": "https://modrinth.com/mod/stTaMuWa",
-        "version": "1.2.0+26.2-fabric"
+        "version": "1.2.2+26.2-fabric"
     },
     {
         "filename": "xaerominimap-fabric-26.2-26.6.0.jar",
