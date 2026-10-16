@@ -294,6 +294,12 @@
         "version": "26.2.0"
     },
     {
+        "filename": "lightspeed-fabric-26.2-2.0.5.jar",
+        "name": "Lightspeed",
+        "url": "https://modrinth.com/mod/niZHUKxZ",
+        "version": "26.2-2.0.5"
+    },
+    {
         "filename": "litematica-fabric-26.2-0.28.8.jar",
         "name": "Litematica",
         "url": "https://modrinth.com/mod/bEpr0Arc",
@@ -436,6 +442,12 @@
         "name": "Nature's Compass",
         "url": "https://modrinth.com/mod/fPetb5Kh",
         "version": "26.2-2.5.1-fabric"
+    },
+    {
+        "filename": "obe+26.2-1.1.53.jar",
+        "name": "Optimized block entities",
+        "url": "https://modrinth.com/mod/AtOSAunf",
+        "version": "1.1.53"
     },
     {
         "filename": "placeholder-api-3.1.0-beta.1+26.2.jar",
