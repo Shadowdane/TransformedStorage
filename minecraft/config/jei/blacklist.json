@@ -1,0 +1,86 @@
+[
+  {
+    "version": 2
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "energizedpower:creative_item_silo"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "energizedpower:creative_battery"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "energizedpower:creative_fluid_tank"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "energizedpower:creative_battery_box"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "storagedrawers:creative_vending_upgrade"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "storagedrawers:creative_storage_upgrade"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "storagedrawers:portability_upgrade"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "storagedrawers:personal_key_cofh"
+      }
+    }
+  },
+  {
+    "hide_mode": "WILDCARD",
+    "ingredient": {
+      "type": "item_stack",
+      "ingredient": {
+        "id": "storagedrawers:personal_key_ftb"
+      }
+    }
+  }  
+]
