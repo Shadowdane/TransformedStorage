@@ -10,7 +10,7 @@
     "description": {
       "text": "Obtain a Elite Upgrade Module"
     },
-    "frame": "task",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
