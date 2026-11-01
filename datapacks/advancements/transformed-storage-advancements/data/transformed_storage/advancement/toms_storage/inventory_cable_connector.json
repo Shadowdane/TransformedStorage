@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:toms_storage/inventory_cable",
+  "display": {
+    "icon": {
+      "id": "toms_storage:inventory_cable_connector"
+    },
+    "title": {
+      "text": "Connecting to the Storage Network"
+    },
+    "description": {
+      "text": "Obtain an Inventory Cable Connector"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "toms_storage:inventory_cable_connector"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

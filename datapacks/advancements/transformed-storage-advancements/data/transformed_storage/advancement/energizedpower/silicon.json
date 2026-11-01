@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:minecraft_chest",
+  "display": {
+    "icon": {
+      "id": "energizedpower:silicon"
+    },
+    "title": {
+      "text": "New Technologies"
+    },
+    "description": {
+      "text": "Smelt Nether Quartz to Silicon"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:silicon"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

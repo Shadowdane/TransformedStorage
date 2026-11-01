@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:classicpipes/copper_pipes",
+  "display": {
+    "icon": {
+      "id": "classicpipes:iron_pipe"
+    },
+    "title": {
+      "text": "One Way Pipes"
+    },
+    "description": {
+      "text": "Obtain a Iron Pipe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "classicpipes:iron_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

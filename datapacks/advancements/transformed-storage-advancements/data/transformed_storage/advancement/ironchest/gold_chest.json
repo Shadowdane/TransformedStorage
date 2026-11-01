@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:ironchest/copper_chest",
+  "display": {
+    "icon": {
+      "id": "ironchest:gold_chest"
+    },
+    "title": {
+      "text": "Bigger than a Double Chest"
+    },
+    "description": {
+      "text": "Obtain a Gold Tier Iron Chest"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "ironchest:gold_chest"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

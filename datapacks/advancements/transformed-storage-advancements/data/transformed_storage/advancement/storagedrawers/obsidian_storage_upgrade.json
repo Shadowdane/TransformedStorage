@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:storagedrawers/upgrade_template",
+  "display": {
+    "icon": {
+      "id": "storagedrawers:obsidian_storage_upgrade"
+    },
+    "title": {
+      "text": "Expanding Drawers"
+    },
+    "description": {
+      "text": "Obtain a Drawer Tier 1 Storage Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "storagedrawers:obsidian_storage_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

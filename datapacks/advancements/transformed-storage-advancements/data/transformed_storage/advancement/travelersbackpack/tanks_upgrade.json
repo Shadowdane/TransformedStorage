@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:travelersbackpack/blank_upgrade",
+  "display": {
+    "icon": {
+      "id": "travelersbackpack:tanks_upgrade"
+    },
+    "title": {
+      "text": "Liquid Luggage"
+    },
+    "description": {
+      "text": "Obtain a Tank Backpack Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "travelersbackpack:tanks_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

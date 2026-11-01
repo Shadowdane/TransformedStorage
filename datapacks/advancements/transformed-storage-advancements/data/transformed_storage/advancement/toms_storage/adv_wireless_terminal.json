@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:toms_storage/wireless_terminal",
+  "display": {
+    "icon": {
+      "id": "toms_storage:adv_wireless_terminal"
+    },
+    "title": {
+      "text": "Upgrading your Wi-Fi"
+    },
+    "description": {
+      "text": "Obtain a Advanced Wireless Terminal"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "toms_storage:adv_wireless_terminal"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

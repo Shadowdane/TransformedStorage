@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:classicpipes/golden_pipe",
+  "display": {
+    "icon": {
+      "id": "classicpipes:diamond_pipe"
+    },
+    "title": {
+      "text": "Sorting Pipes"
+    },
+    "description": {
+      "text": "Obtain a Diamond Pipe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "classicpipes:diamond_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}
