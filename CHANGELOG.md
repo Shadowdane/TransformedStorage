@@ -1,3 +1,42 @@
+## 26.2-1.0.0 (11/1/26)
+
+### Major Changes
+- Updated to Fabric Loader v0.20.1 for Minecraft 26.2
+- Added 50 Advancements for Transformed Storage
+- Replaced Roughly Enough Items (REI) with Just Enough Items (JEI) item viewer
+- Increase modded loot chances slightly for loot chests in structures
+
+### Removed Mods
+- Architectury
+- Roughly Enough Items
+
+### Added Mods
+- Just Enough Items v30.48.0.244
+- MezzConfig v0.6.10
+- MezzConfig GUI v0.5.10
+
+### Updated Mods
+- AdvancedCoreInfo v1.5.0
+- AdvancedLootInfo v2.5.0
+- Animal Pen v2.5.2
+- Collective v8.67
+- Energized Power v3.0.5+26.2.x-fabric
+- GEODE v1.0.4-RP1.117.0-mc1.18-26.3
+- Lightspeed v26.2-2.0.5+hotfix
+- Loot Table Modifier v2.5.0+fabric+26.1
+- Optimized block entities v1.2.0
+- Polymorph+ v1.4.2+26.2.0
+- Shulker Box Tooltip v5.4.3.+26.2
+- Simple Voice Chat v2.6.27+26.2
+- Sodium Extra v0.9.5+mc26.2
+- SuperMartijn642's Core Lib v1.1.26+a
+- Trash Cans v1.1.2+a
+- Veinminer Enchantment v2.13.0
+- Xaero's Maps: Multiplayer+ v1.2.4+26.2-fabric
+- Xaero's Minimap v26.6.2
+- Xaero's World Map v1.47.2
+
+
 ## 26.2-0.4.0 (10/16/26)
 
 This update changed to the Xaero's Maps: Multiplayer+ mod which replaces functionality of the XaeroHeadTracker and Server Waypoint mods.  It also adds multiplayer Xaero Map support for shared mapping for all players.  This update also adds the Lightspeed and Optimized Block Entities mods for faster startup and better performance around areas with a lot of block entities in game.  Also updated some mods that had bugfixes.
