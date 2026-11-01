@@ -1,0 +1,47 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Silkier Touch -> Config",
+	"Enable Silkier Touch": {
+		"//": "Whether Silkier Touch is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"enableDragonEggDrop": {
+		"//": "Disables the dragon egg teleport functionality when using a silk touch pickaxe.",
+		"value": false
+	},
+	"enableSpawnerDrop": {
+		"//": "Enables monster spawners to drop with silk touch. It keeps the mob data.",
+		"value": true
+	},
+	"enableTrialSpawnerDrop": {
+		"//": "Lowers the trial spawner 'strength' to allow breaking it. Will be dropped with silk touch on a pickaxe. Changing this requires a reboot.",
+		"value": false
+	},
+	"enableFullCakeDrop": {
+		"//": "Allows cakes that haven't been eaten from to drop with silk touch. Works with candle cakes as well.",
+		"value": false
+	},
+	"enableBuddedAmethystDrop": {
+		"//": "Allows Budded Amethyst to drop when mined with silk touch.",
+		"value": false
+	},
+	"enableFarmlandDrop": {
+		"//": "Allows Farmland to drop when harvested with silk touch.",
+		"value": false
+	},
+	"enableTallGrassDrop": {
+		"//": "Allows Tall Grass to drop when harvested with silk touch.",
+		"value": false
+	},
+	"enableSnowLayerDrop": {
+		"//": "Allows Snow Layers to drop when harvested with silk touch.",
+		"value": false
+	},
+	"enableVinesDrop": {
+		"//": "Allows Vines to drop when harvested with silk touch.",
+		"value": true
+	},
+	"enableInfestedStoneDrop": {
+		"//": "Allows Infested Stone to drop when mined with silk touch.",
+		"value": false
+	}
+}
