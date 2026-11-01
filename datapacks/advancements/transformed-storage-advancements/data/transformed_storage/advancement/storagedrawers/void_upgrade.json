@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:storagedrawers/obsidian_storage_upgrade",
+  "display": {
+    "icon": {
+      "id": "storagedrawers:void_upgrade"
+    },
+    "title": {
+      "text": "Who needs a lava pool?"
+    },
+    "description": {
+      "text": "Obtain a Void Drawer Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "storagedrawers:void_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

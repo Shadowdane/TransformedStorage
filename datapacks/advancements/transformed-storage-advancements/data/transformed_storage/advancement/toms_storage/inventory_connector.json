@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:minecraft_chest",
+  "display": {
+    "icon": {
+      "id": "toms_storage:inventory_connector"
+    },
+    "title": {
+      "text": "Storage System"
+    },
+    "description": {
+      "text": "Obtain an Inventory Connector"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "toms_storage:inventory_connector"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

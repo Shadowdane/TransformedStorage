@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:minecraft_chest",
+  "display": {
+    "icon": {
+      "id": "classicpipes:oak_pipe"
+    },
+    "title": {
+      "text": "Pipe Dreams"
+    },
+    "description": {
+      "text": "Obtain a Classic Item Pipe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#transformed_storage:wooden_item_pipes"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

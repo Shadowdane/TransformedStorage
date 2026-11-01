@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/copper_fluid_pipe",
+  "display": {
+    "icon": {
+      "id": "energizedpower:plant_growth_chamber"
+    },
+    "title": {
+      "text": "Green Thumb"
+    },
+    "description": {
+      "text": "Obtain a Plant Growth Chamber"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:plant_growth_chamber"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

@@ -204,7 +204,7 @@
         "version": "26.2.1"
     },
     {
-        "filename": "GEODE-v1.0.4-RP1.116.0-mc1.18-26.3.jar",
+        "filename": "GEODE-v1.0.4-RP1.117.0-mc1.18-26.3.jar",
         "name": "GEODE Universal Compatibility Loader",
         "url": "https://modrinth.com/mod/U8Iw4AfP",
         "version": "2.0.0"
@@ -396,10 +396,10 @@
         "version": "2.4.2"
     },
     {
-        "filename": "mezz_config-26.2-fabric-0.6.9.jar",
+        "filename": "mezz_config-26.2-fabric-0.6.10.jar",
         "name": "MezzConfig",
         "url": "https://modrinth.com/mod/7tEfOcA7",
-        "version": "0.6.9"
+        "version": "0.6.10"
     },
     {
         "filename": "mezz_config_gui-26.2-fabric-mc26.2-0.5.10.jar",
@@ -558,10 +558,10 @@
         "version": "1.1.8+a"
     },
     {
-        "filename": "supermartijn642corelib-1.1.26-fabric-mc26.2.jar",
+        "filename": "supermartijn642corelib-1.1.26a-fabric-mc26.2.jar",
         "name": "SuperMartijn642's Core Lib",
         "url": "https://modrinth.com/mod/rOUBggPv",
-        "version": "1.1.26"
+        "version": "1.1.26+a"
     },
     {
         "filename": "toms_storage_fabric-26.2-2.11.4.jar",
@@ -576,10 +576,10 @@
         "version": "1.0.23+26.2"
     },
     {
-        "filename": "trashcans-1.1.2-fabric-mc26.2.jar",
+        "filename": "trashcans-1.1.2a-fabric-mc26.2.jar",
         "name": "Trash Cans",
         "url": "https://modrinth.com/mod/4QrnfueM",
-        "version": "1.1.2"
+        "version": "1.1.2+a"
     },
     {
         "filename": "travelersbackpack-fabric-26.2-11.3.3.jar",

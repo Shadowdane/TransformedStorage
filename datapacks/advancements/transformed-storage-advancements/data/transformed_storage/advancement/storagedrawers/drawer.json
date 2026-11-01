@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:minecraft_chest",
+  "display": {
+    "icon": {
+      "id": "storagedrawers:oak_full_drawers_1"
+    },
+    "title": {
+      "text": "Drawers of Plenty"
+    },
+    "description": {
+      "text": "Obtain a Storage Drawer"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#storagedrawers:drawers"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

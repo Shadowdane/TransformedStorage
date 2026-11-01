@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/heat_generator",
+  "display": {
+    "icon": {
+      "id": "energizedpower:solar_panel_1"
+    },
+    "title": {
+      "text": "Powered by the Sun"
+    },
+    "description": {
+      "text": "Obtain a Solar Panel"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:solar_panel_1"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:ironchest/copper_chest",
+  "display": {
+    "icon": {
+      "id": "ironchest:copper_iron_upgrade"
+    },
+    "title": {
+      "text": "Transmute a Chest"
+    },
+    "description": {
+      "text": "Obtain a Copper to Iron Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "ironchest:copper_iron_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

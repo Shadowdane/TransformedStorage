@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/powered_furnace",
+  "display": {
+    "icon": {
+      "id": "energizedpower:copper_fluid_pipe"
+    },
+    "title": {
+      "text": "Fluid Transport"
+    },
+    "description": {
+      "text": "Obtain a Copper Fluid Pipe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:copper_fluid_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

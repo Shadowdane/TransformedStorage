@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:minecraft_chest",
+  "display": {
+    "icon": {
+      "id": "animal_pen:animal_cage"
+    },
+    "title": {
+      "text": "Capture an animal"
+    },
+    "description": {
+      "text": "Obtain an Animal Cage"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "animal_pen:animal_cage"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

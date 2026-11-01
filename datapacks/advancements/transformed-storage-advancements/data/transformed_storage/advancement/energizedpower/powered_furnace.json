@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/tin_cable",
+  "display": {
+    "icon": {
+      "id": "energizedpower:powered_furnace"
+    },
+    "title": {
+      "text": "Smelting with Power"
+    },
+    "description": {
+      "text": "Obtain a Powered Furnance"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:powered_furnace"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

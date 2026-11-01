@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/silicon",
+  "display": {
+    "icon": {
+      "id": "energizedpower:coal_engine"
+    },
+    "title": {
+      "text": "We have power!"
+    },
+    "description": {
+      "text": "Obtain a Coal Engine"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:coal_engine"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

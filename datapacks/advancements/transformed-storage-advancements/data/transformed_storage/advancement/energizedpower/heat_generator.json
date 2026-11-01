@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/coal_engine",
+  "display": {
+    "icon": {
+      "id": "energizedpower:heat_generator"
+    },
+    "title": {
+      "text": "Powered by Lava"
+    },
+    "description": {
+      "text": "Obtain a Heat Generator"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:heat_generator"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

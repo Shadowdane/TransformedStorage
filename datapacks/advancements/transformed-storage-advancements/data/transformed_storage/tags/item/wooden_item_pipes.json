@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "classicpipes:acacia_pipe",
+    "classicpipes:bamboo_pipe",
+    "classicpipes:birch_pipe",
+    "classicpipes:cherry_pipe",
+    "classicpipes:crimson_pipe",
+    "classicpipes:dark_oak_pipe",
+    "classicpipes:jungle_pipe",
+    "classicpipes:mangrove_pipe",
+    "classicpipes:oak_pipe",
+    "classicpipes:pale_oak_pipe",
+    "classicpipes:spruce_pipe",
+    "classicpipes:warped_pipe"
+  ]
+}

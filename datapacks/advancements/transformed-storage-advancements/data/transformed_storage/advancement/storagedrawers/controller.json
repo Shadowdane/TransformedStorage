@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:storagedrawers/drawer_key",
+  "display": {
+    "icon": {
+      "id": "storagedrawers:controller"
+    },
+    "title": {
+      "text": "Connected Drawers"
+    },
+    "description": {
+      "text": "Obtain a Drawer Controller"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "storagedrawers:controller"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

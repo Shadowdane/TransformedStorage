@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:travelersbackpack/blank_upgrade",
+  "display": {
+    "icon": {
+      "id": "travelersbackpack:iron_tier_upgrade"
+    },
+    "title": {
+      "text": "Larger Backpacks"
+    },
+    "description": {
+      "text": "Obtain a Iron Backpack Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "travelersbackpack:iron_tier_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}
