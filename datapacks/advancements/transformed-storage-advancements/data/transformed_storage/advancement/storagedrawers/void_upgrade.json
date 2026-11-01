@@ -1,5 +1,5 @@
 {
-  "parent": "transformed_storage:storagedrawers/obsidian_storage_upgrade",
+  "parent": "transformed_storage:storagedrawers/upgrade_template",
   "display": {
     "icon": {
       "id": "storagedrawers:void_upgrade"

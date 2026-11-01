@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:classicpipes/wooden_pipe",
+  "display": {
+    "icon": {
+      "id": "classicpipes:copper_pipe"
+    },
+    "title": {
+      "text": "Extracting Items"
+    },
+    "description": {
+      "text": "Obtain any Copper Item Pipe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#transformed_storage:copper_item_pipes"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

@@ -1,16 +1,16 @@
 {
-  "parent": "transformed_storage:classicpipes/wooden_pipe",
+  "parent": "transformed_storage:ironchest/gold_chest",
   "display": {
     "icon": {
-      "id": "classicpipes:copper_pipe"
+      "id": "ironchest:netherite_chest"
     },
     "title": {
-      "text": "Extracting Items"
+      "text": "The Ultimate Chest"
     },
     "description": {
-      "text": "Obtain a Copper Pipe"
+      "text": "Obtain a Netherite Tier Iron Chest"
     },
-    "frame": "task",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "items": "classicpipes:copper_pipe"
+            "items": "ironchest:netherite_chest"
           }
         ]
       }

@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:storagedrawers/obsidian_storage_upgrade",
+  "display": {
+    "icon": {
+      "id": "storagedrawers:gold_storage_upgrade"
+    },
+    "title": {
+      "text": "16 Times the Storage"
+    },
+    "description": {
+      "text": "Obtain a Drawer Tier IV Storage Upgrade"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "storagedrawers:gold_storage_upgrade"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

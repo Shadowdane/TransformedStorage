@@ -1,0 +1,35 @@
+{
+  "parent": "transformed_storage:energizedpower/reinforced_advanced_upgrade_module",
+  "display": {
+    "icon": {
+      "id": "energizedpower:elite_upgrade_module"
+    },
+    "title": {
+      "text": "Ultimate Machine Upgrades"
+    },
+    "description": {
+      "text": "Obtain a Elite Upgrade Module"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:elite_upgrade_module"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

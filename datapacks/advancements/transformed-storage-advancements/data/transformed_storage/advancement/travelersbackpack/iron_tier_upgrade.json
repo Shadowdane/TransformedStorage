@@ -5,10 +5,10 @@
       "id": "travelersbackpack:iron_tier_upgrade"
     },
     "title": {
-      "text": "Larger Backpacks"
+      "text": "Medium Backpack Storage"
     },
     "description": {
-      "text": "Obtain a Iron Backpack Upgrade"
+      "text": "Obtain an Iron Backpack Upgrade"
     },
     "frame": "task",
     "show_toast": true,

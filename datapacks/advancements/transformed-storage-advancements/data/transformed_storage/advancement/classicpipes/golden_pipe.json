@@ -1,5 +1,5 @@
 {
-  "parent": "transformed_storage:classicpipes/copper_pipe",
+  "parent": "transformed_storage:classicpipes/iron_pipe",
   "display": {
     "icon": {
       "id": "classicpipes:golden_pipe"

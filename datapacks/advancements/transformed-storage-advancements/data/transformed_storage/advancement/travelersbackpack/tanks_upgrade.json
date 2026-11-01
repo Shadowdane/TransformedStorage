@@ -1,5 +1,5 @@
 {
-  "parent": "transformed_storage:travelersbackpack/iron_tier_upgrade",
+  "parent": "transformed_storage:travelersbackpack/blank_upgrade",
   "display": {
     "icon": {
       "id": "travelersbackpack:tanks_upgrade"
